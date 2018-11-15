@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
 title: Linghui Luo
 description: A personal page
 twitter: LinghuiLuo
