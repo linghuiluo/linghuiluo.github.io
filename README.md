@@ -1,5 +1,3 @@
-# Linghui Luo
-
 ## Biography 
 Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a teaching assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering/) at Paderborn University since July 2017. Her research interests include security-related static/dynamic code analysis for Java/Android applications. 
 
