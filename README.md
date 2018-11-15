@@ -8,6 +8,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - Data-Flow Analysis
 - Automatic Test Generation 
 - Concolic & Symbolic Execution
+- Benchmarking Code Analysis Tools
 
 ## Education 
 - M. Sc. In Computer Science, 2017, Paderborn University, Germany.
