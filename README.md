@@ -50,7 +50,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
   - [Project Repository](https://github.com/linghuiluo/MultiSkipGraph)
 - [SanDMAN](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-completed/sandman/), 
 04/2016 - 03/2017, Student project group in the context of the European project [SONATA](https://cs.uni-paderborn.de/cn/research/research-projects/completed-projects/sonata/).
-  - Design and implementation of editors for facilitating the service development task for developers.
+  - Design and implementation of web editors for facilitating the service development task for developers.
   - [Project Repository](https://github.com/CN-UPB/upb-son-editor-frontend) 
 
   
