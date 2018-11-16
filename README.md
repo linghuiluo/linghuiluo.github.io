@@ -3,16 +3,9 @@
 
 
 ## Biography 
-<table "border=0">
-  <tr>
-    <th "width=20%">
-<img src="https://avatars0.githubusercontent.com/u/18470909?s=400&amp;u=3ce7a2ed3660c90706a843a3f75651d3e6494239&amp;v=4" alt="drawing" width="200"/>
-    </th>
-    <th><p "align=left">
-Linghui Luo is a PhD student advised by <a href="https://www.bodden.de/">Prof. Eric Bodden</a>. She works as a research assistant in the <a href="https://www.hni.uni-paderborn.de/en/software-engineering"/>Software Engineering Group</a> at Paderborn University since July 2017. Her research interests include security-related static/dynamic code analysis for Java/Android applications. 
-    </p></th> 
-  </tr>
-</table>
+|<img src="https://avatars0.githubusercontent.com/u/18470909?s=400&amp;u=3ce7a2ed3660c90706a843a3f75651d3e6494239&amp;v=4" alt="drawing" width="200"/>
+|Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering)at Paderborn University since July 2017. Her research interests include security-related static/dynamic code analysis for Java/Android applications.|
+
 
 
 
