@@ -28,7 +28,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 ## Education 
 - **M. Sc. In Computer Science**, 2017, Paderborn University, Paderborn, Germany.
 - **Exchange Semester In Computer Science**, 2015, Beihang University, Beijing, China.
-- **B. Sc. In Computer Science, 2014**, Paderborn University, Paderborn, Germany.
+- **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Academic Work Experience
 - **Research Assistant**, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
