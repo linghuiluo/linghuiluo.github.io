@@ -38,7 +38,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Other Work Experience
 - **Student Assistant**, 11/2013 – 01/2015, Wincor Nixdorf, Paderborn, Germany.
-  - Software unit and intergration testing for a survillance software used in ATMs
+  - Software unit and integration testing for a survillance software used in ATMs
 
 ## Projects 
 - [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the Soot Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), call for Research Software Sustainability
