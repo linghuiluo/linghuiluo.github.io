@@ -41,17 +41,18 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
   - Software unit and integration testing for a survillance software used in ATMs
 
 ## Projects 
-- [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the Soot Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), call for Research Software Sustainability
-  - Design and development of a new [Soot](https://github.com/Sable/soot) framework.
+- [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/Sable/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), call for Research Software Sustainability
+  - Design and development of a new Soot framework.
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
   - Research in usable static analysis
+- [MultiSkipGraph](https://linghuiluo.github.io/MultiSkipGraph/), 2013 - 2014, Project for submission to IPDPS19.
+  - Design of protocols and implementation of simulator. 
+  - [Project Repository](https://github.com/linghuiluo/MultiSkipGraph)
 - [SanDMAN](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-completed/sandman/), 
 04/2013 - 03/2014, Student project group in the context of the European project [SONATA](https://cs.uni-paderborn.de/cn/research/research-projects/completed-projects/sonata/).
   - Design and implementation of editors for facilitating the service development task for developers.
   - [Project Repository](https://github.com/CN-UPB/upb-son-editor-frontend) 
-- [MultiSkipGraph](https://linghuiluo.github.io/MultiSkipGraph/), 2013 - 2014, Project from master thesis.
-  - Design of protocols and implementation of simulator. 
-  - [Project Repository](https://github.com/linghuiluo/MultiSkipGraph)
+
   
 ## Teaching Experience 
 ### Teaching Assistant
@@ -63,7 +64,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 
 ### Student Tutor
-- Introduction to Computability,Complexity and Formal Languages, 10/2016 – 02/2017, Paderborn University. (Bachelor course)
+- Introduction to Computability, Complexity and Formal Languages, 10/2016 – 02/2017, Paderborn University. (Bachelor course)
 - Data Structure and Algorithms, 2012 – 2016, Paderborn University. (Bachelor course)
 - Analysis, 10/2012 – 02/2013, Paderborn University. (Bachelor course)
 - Modeling, 10/2011 – 02/2012, Paderborn University. (Bachelor course)
