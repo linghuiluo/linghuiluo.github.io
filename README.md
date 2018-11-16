@@ -74,10 +74,11 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - [Java Version-wise Feature Changes](https://gist.github.com/linghuiluo/b3d011b439f78a530320065ba160d349)
 
 ## Contact
-
+<linghui@outlook.de>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
+
 
 [![alt text][1.1]][1]
 [![alt text][6.1]][6]
