@@ -42,7 +42,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Projects 
 - [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the Soot Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), call for Research Software Sustainability
-  - Design and development of the FutureSoot project.
+  - Design and development of a new soot project.
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
   - Research in usable static analysis
 - [SanDMAN](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-completed/sandman/), 
