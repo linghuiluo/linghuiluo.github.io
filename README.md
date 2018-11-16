@@ -2,7 +2,7 @@
 
 
 ## Biography 
-Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a teaching assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering/) at Paderborn University since July 2017. Her research interests include security-related static/dynamic code analysis for Java/Android applications. 
+Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering/) at Paderborn University since July 2017. Her research interests include security-related static/dynamic code analysis for Java/Android applications. 
 
 ## Research Interests
 - Data-Flow Analysis
@@ -10,9 +10,54 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - Concolic & Symbolic Execution
 - Benchmarking Code Analysis Tools
 
+## Posters 
+- Categorizing Static Analysis Results, 04/2017, ISSTA18 PC Meeting Poster Session. ([Available](cova_poster.pdf))
+
+## Publications 
+- 2017 
+  - [MultiSkipList: A Self-stabilizing Overlay Network with Monotonic Searchability maintained](https://ris.uni-paderborn.de/record/434) 
+- 2014
+  - [Ein selbst-stabilisierender Algorithmus für das Finite Sleep Problem in Skip+ Graphen](https://ris.uni-paderborn.de/record/434)
 ## Education 
-- M. Sc. In Computer Science, 2017, Paderborn University, Germany.
-- B. Sc. In Computer Science, 2014, Paderborn University, Germany.
+- M. Sc. In Computer Science, 2017, Paderborn University, Paderborn, Germany.
+- Exchange Semester In Computer Science, 2015, Beihang University, Beijing, China.
+- B. Sc. In Computer Science, 2014, Paderborn University, Paderborn, Germany.
+
+## Academic Work Experience
+- Research Assistant, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
+- Student Assistant, 02/2015 – 03/2017, Research group Theory of Distributed System, Paderborn University, Paderborn, Germany.
+  - Design and development of a simulator in Java for evaluating various distributed algorithms.
+  - Supervisor: [Dr. Thim Strothmann](https://www.uni-paderborn.de/en/person/11319/)
+
+## Other Work Experience
+- Student Assistant, 11/2013 – 01/2015, Wincor Nixdorf, Paderborn, Germany.
+  - Software unit and intergration testing for a survillance software used in ATMs
+
+## Projects 
+- [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the Soot Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), call for Research Software Sustainability
+  - Design and development of the FutureSoot project.
+- [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
+  - Research in usable static analysis
+- [SanDMAN](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-completed/sandman/), 
+10/2013 - 04/2014, Student project group in the context of the European project [SONATA](https://cs.uni-paderborn.de/cn/research/research-projects/completed-projects/sonata/).
+  - Design and implementation of editors for facilitating the service development task for developers.
+  - [Project Repository](https://github.com/CN-UPB/upb-son-editor-frontend) 
+- [MultiSkipGraph](https://linghuiluo.github.io/MultiSkipGraph/), 2013 - 2014, Project from master thesis.
+  - Design of protocols and implementation of simulator. 
+  - [Project Repository](https://github.com/linghuiluo/MultiSkipGraph)
+  
+## Teaching Experience 
+### Teaching Assistant
+- Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
+- Seminar Secure Systems Engineering, 2/310/2017 – 02/2018, Paderborn University. (Master course)
+- Secure Software Engineering, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
+## Substitute Lecturer
+- Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University.(Master course)
+## Student Tutor
+- Introduction to Computability,Complexity and Formal Languages, 10/2016 – 02/2017, Paderborn University. (Bachelor course)
+- Data Structure and Algorithms, 2012 – 2016, Paderborn University. (Bachelor course)
+- Analysis, 10/2012 – 02/2013, Paderborn University. (Bachelor course)
+- Modeling, 10/2011 – 02/2012, Paderborn University. (Bachelor course)
 
 ## Linghui's Notes 
 
