@@ -11,7 +11,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - Benchmarking Code Analysis Tools
 
 ## Posters 
-- Categorizing Static Analysis Results, 04/2017, ISSTA18 PC Meeting Poster Session. ([Available](cova_poster.pdf))
+- Categorizing Static Analysis Results, 04/2018, ISSTA18 PC Meeting Poster Session. ([Available](cova_poster.pdf))
 
 ## Publications 
 - 2017 
