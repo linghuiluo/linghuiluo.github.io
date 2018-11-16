@@ -15,7 +15,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Publications 
 - 2017 
-  - [MultiSkipList: A Self-stabilizing Overlay Network with Monotonic Searchability maintained](https://ris.uni-paderborn.de/record/434) 
+  - [MultiSkipList: A Self-stabilizing Overlay Network with Monotonic Searchability maintained](https://ris.uni-paderborn.de/record/81) 
 - 2014
   - [Ein selbst-stabilisierender Algorithmus für das Finite Sleep Problem in Skip+ Graphen](https://ris.uni-paderborn.de/record/434)
 
