@@ -38,13 +38,13 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Other Work Experience
 - **Student Assistant**, 11/2013 – 01/2015, Wincor Nixdorf, Paderborn, Germany.
-  - Software unit and integration testing for a survillance software used in ATMs
+  - Software unit and integration testing for a survillance software used in ATMs.
 
 ## Projects 
 - [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/Sable/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), call for Research Software Sustainability
   - Design and development of a new Soot framework.
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
-  - Research in usable static analysis
+  - Research in usable static analysis.
 - [MultiSkipGraph](https://linghuiluo.github.io/MultiSkipGraph/), 2013 - 2014, Project for submission to IPDPS19.
   - Design of protocols and implementation of simulator. 
   - [Project Repository](https://github.com/linghuiluo/MultiSkipGraph)
