@@ -17,8 +17,8 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - Benchmarking Code Analysis Tools
 
 ## Posters 
-- **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany ([Available](sootLSP_poster_google.pdf))
-- **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany ([Available](cova_poster_google.pdf))
+- **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Available](sootLSP_poster_google.pdf))
+- **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Available](cova_poster_google.pdf))
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Available](cova_poster.pdf))
 
 ## Publications 
