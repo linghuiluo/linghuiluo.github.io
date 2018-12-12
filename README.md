@@ -23,7 +23,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Publications 
 - 2019
-  - MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability (to appear), 20/05/2019-24/05/2019, Rio de Janeiro, Brazil, IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2019 
+  - MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability (to appear), 20/05/2019-24/05/2019, IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2019, Rio de Janeiro, Brazil
 - 2017 
   - [MultiSkipList: A Self-stabilizing Overlay Network with Monotonic Searchability maintained](https://ris.uni-paderborn.de/record/81) 
 - 2014
