@@ -11,10 +11,12 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 
 ## Research Interests
+- Usable Program Analysis
 - Data-Flow Analysis
-- Automatic Test Generation 
 - Concolic & Symbolic Execution
-- Benchmarking Code Analysis Tools
+- Benchmarking Program Analysis Tools
+- Automatic Test Generation 
+
 
 ## Posters 
 - **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Available](cova_poster_google.pdf))
