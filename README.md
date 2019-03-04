@@ -37,7 +37,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Academic Work Experience
-- **Research Visit**, 07/01/2019 - 03/02/2019, Research visit in collaboration with [Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA.
+- **Research Visit**, 07/01/2019 - 03/02/2019, Research visit in collaboration with [Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. [Recommendation](recommendation_julian.pdf)
 - **Research Assistant**, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
 - **Student Assistant**, 02/2015 – 03/2017, Research group Theory of Distributed System, Paderborn University, Paderborn, Germany.
   - Design and development of a simulator in Java for evaluating various distributed algorithms.
