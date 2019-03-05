@@ -41,7 +41,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - **Research Assistant**, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
 - **Student Assistant**, 02/2015 – 03/2017, Research group Theory of Distributed System, Paderborn University, Paderborn, Germany.
   - Design and development of a simulator in Java for evaluating various distributed algorithms.
-  - Supervisor: [Dr. Thim Strothmann](https://www.uni-paderborn.de/en/person/11319/)
+  - Supervisor: [Dr. Thim Strothmann](https://www.uni-paderborn.de/en/person/11319/) ([Recommendation](Recommendation_ Thim.pdf))
 
 ## Other Work Experience
 - **Student Assistant**, 11/2013 – 01/2015, Wincor Nixdorf, Paderborn, Germany.
