@@ -6,6 +6,28 @@
 <img src="https://avatars0.githubusercontent.com/u/18470909?s=400&amp;u=3ce7a2ed3660c90706a843a3f75651d3e6494239&amp;v=4" alt="drawing" width="120" style="float: left;" hspace="5"/> 
 
 Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include security-related program analysis for Java/Android applications. 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+[![alt text][1.1]][1]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/LinghuiLuo
+[6]: https://github.com/linghuiluo
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
 
