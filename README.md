@@ -47,7 +47,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Publications 
 - 2019
-  - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability** (to appear), 20/05/2019-24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil. ([Available](multiskipgraphIPDPS.pdf))
+  - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability**, 20/05/2019-24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil. ([Available](multiskipgraphIPDPS.pdf))
 - 2018
   - **A Qualitative Analysis of Taint-Analysis Results**, 08/2018, Technical Report, Heinz Nixdorf Institute, Paderborn University, Paderborn, Germany. 
 - 2017 
