@@ -87,6 +87,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
   
 ## Teaching Experience 
 ### Teaching Assistant
+- Secure Software Engineering, 04/2019 – 07/2019, Paderborn University. (Bachelor course)
 - Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 - Seminar Secure Systems Engineering, 10/2017 – 02/2018, Paderborn University. (Master course)
 - Secure Software Engineering, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
