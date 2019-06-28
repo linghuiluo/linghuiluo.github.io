@@ -11,6 +11,7 @@ create usable analysis tools at first."
 <p align="right"><b>--- Linghui Luo</p>
   
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
+
 Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include security-related program analysis. 
 
 
