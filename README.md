@@ -3,7 +3,7 @@
 
 
 ## Biography 
-<pre><b>
+<pre>
 "The usage of security analysis tools should become an industrial
 convention in secure software development. However, we need to
 create usable analysis tools at first."         
