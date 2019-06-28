@@ -4,10 +4,12 @@
 
 ## Biography 
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
-
-**"The usage of security analysis tools should become an industrial
+<p><b>
+"The usage of security analysis tools should become an industrial
 convention in secure software development. However, we need to
-create usable analysis tools at first."  -- Linghui Luo**
+create usable analysis tools at first." 
+</p>
+<p align="right"><b>--- Linghui Luo</p>
 
 Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include security-related program analysis. 
 
