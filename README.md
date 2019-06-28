@@ -3,11 +3,12 @@
 
 
 ## Biography 
-
->"The usage of security analysis tools should become an industrial
+<pre><b>
+"The usage of security analysis tools should become an industrial
 convention in secure software development. However, we need to
-create usable analysis tools at first." --- Linghui Luo 
-                                                                  
+create usable analysis tools at first."         
+                                                      --- Linghui Luo
+</pre>                                                              
   
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
 
