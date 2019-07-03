@@ -117,7 +117,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Life Outside of Work
 Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat (Alan) and a black cat (Hacker).
-She loves to spend her time with her pets and do sports such as bouldering, waterskiing, snowboarding and swimming. 
+She loves to spend her time with her pets and do sports such as bouldering, water skiing, snowboarding and swimming. 
 She also enjoys music and tries to learn playing musical intructments to amuse herself.
 
 ## Contact
