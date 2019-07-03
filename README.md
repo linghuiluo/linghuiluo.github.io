@@ -121,7 +121,7 @@ She loves to spend her time with her pets and do sports such as bouldering, wate
 She also enjoys music and tries to learn playing musical intructments to amuse herself.
 
 ## Contact
-Write Linghui an e-mail in English, German or Chinese.
+Write Linghui an email in English, German or Chinese.
 
 &#x2709; linghui[at]outlook.de
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
