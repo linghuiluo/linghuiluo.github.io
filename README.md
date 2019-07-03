@@ -115,6 +115,11 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 - [Program Analysis Tools](https://gist.github.com/linghuiluo/9a079d75a776e749ba7a9efc3c45e096)
 - [Java Version-wise Feature Changes](https://gist.github.com/linghuiluo/b3d011b439f78a530320065ba160d349)
 
+## Life Outside of Work
+Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat (Alan) and a black cat (Hacker).
+She loves to spend her time with her pets and do sports such as bouldering, waterskiing, snowboarding and swimming. 
+She also enjoys music and tries to learn playing musical intructments to amuse herself.
+
 ## Contact
 &#x2709; linghui[at]outlook.de
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
