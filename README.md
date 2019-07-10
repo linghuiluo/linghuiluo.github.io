@@ -49,6 +49,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 
 ## Posters 
+- **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Available](ECOOP19MagpieBridgePoster.pfd))
 - **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Available](cova_poster_google.pdf))
 - **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Available](cova_poster.pdf))
