@@ -115,7 +115,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 ## Linghui's Notes 
 - [Program Analysis Tools](https://gist.github.com/linghuiluo/9a079d75a776e749ba7a9efc3c45e096)
 - [Security Benchmarks](https://gist.github.com/linghuiluo/1189211c2799ef79e6e8e35dfded388a)
-- [Java Version-wise Feature Changes](https://gist.github.com/linghuiluo/b3d011b439f78a530320065ba160d349)
+- [Notes on Java](java.md)
 - [Notes on Soot](Soot_notes.md)
 
 ## Life Outside of Work
