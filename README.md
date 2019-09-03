@@ -57,7 +57,7 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 ## Publications 
 - 2019
-  - **A Qualitative Analysis of Taint-Analysis Results**, 11/11/2019-15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States. (To appear) 
+  - **A Qualitative Analysis of Android Taint-Analysis Results**, 11/11/2019-15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States. (To appear) 
   - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Paper](ECOOP19MagpieBridge.pdf), [Slides](MagpieBridge-ECOOP19-Talk.pdf), [DOI]( https://doi.org/10.4230/LIPIcs.ECOOP.2019.21), [Open Source Project](https://github.com/MagpieBridge/MagpieBridge))
   - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability**, 20/05/2019-24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil. ([Paper](multiskipgraphIPDPS.pdf), [Open Source Project](https://github.com/linghuiluo/MultiSkipGraph))
 - 2018
