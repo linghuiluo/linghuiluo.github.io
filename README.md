@@ -11,7 +11,7 @@ create usable analysis tools at first."
   
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
 
-Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis and empirical software engineering.
+Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis and empirical software engineering. She believes Open Source is the future and contributes to the open source community. To know about her recent activities, please follow her on Twitter [@LinghuiLuo](https://twitter.com/LinghuiLuo).
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -37,17 +37,24 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-
-
+## Contribution to Open Source Projects
+<a href="https://github.com/MagpieBridge">
+<img src="https://github.com/MagpieBridge/MagpieBridge/blob/develop/doc/logshort.png" alt="drawing" width="120" style="float: left;" hspace="5"/></a>
+<a href="https://github.com/secure-software-engineering/COVA">
+<img src="https://github.com/secure-software-engineering/COVA/blob/master/cova-logo.PNG" alt="drawing" width="120" style="float: left;" hspace="5"/></a>
+<a href="https://github.com/Sable/soot">
+<img src="http://sable.github.io/soot/logo/soot-logo.png" alt="drawing" width="90" style="float: left;" hspace="5"/> 
+</a>
+<a href=https://github.com/wala/WALA>
+<img src="http://wala.sourceforge.net/wiki/images/9/94/WALA-banner.png" alt="drawing" width="150" style="float: left;" hspace="5"/> 
+</a>
 
 ## Research Interests
-- Usable Program Analysis
-- Data-Flow Analysis
+- Program Analysis
 - Empirical Software Engineering
 - Concolic & Symbolic Execution
 - Benchmarking Program Analysis Tools
 - Automatic Test Generation 
-
 
 ## Posters 
 - **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Available](ECOOP19MagpieBridgePoster.pdf))
@@ -58,10 +65,13 @@ Linghui Luo is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.d
 ## Publications 
 - 2019
   - **A Qualitative Analysis of Android Taint-Analysis Results**, 11/11/2019-15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.<br>
+  **Linghui Luo**, Eric Bodden, Johannes Späth<br>
   ([Paper](ASE19Cova.pdf), [Open Source Project](https://github.com/secure-software-engineering/COVA)) 
   - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom.<br>
+  **Linghui Luo**, Julian Dolby, Eric Bodden<br>
   ([Paper](ECOOP19MagpieBridge.pdf), [Slides](MagpieBridge-ECOOP19-Talk.pdf), [DOI]( https://doi.org/10.4230/LIPIcs.ECOOP.2019.21), [Open Source Project](https://github.com/MagpieBridge/MagpieBridge), [Video](https://youtu.be/w56Bxxa_Ppo))
   - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability**, 20/05/2019-24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil.<br> 
+  **Linghui Luo**, Christian Scheideler, Thim Strothmann<br>
   ([Paper](multiskipgraphIPDPS.pdf), [Slides](MultiSkipGraph-IPDPS19-Talk.pdf), [DOI](https://ieeexplore.ieee.org/document/8820950/), [Open Source Project](https://github.com/linghuiluo/MultiSkipGraph))
 - 2017 
   - [MultiSkipList: A Self-stabilizing Overlay Network with Monotonic Searchability maintained](https://ris.uni-paderborn.de/record/81), Master Thesis 
