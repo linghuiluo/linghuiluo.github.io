@@ -49,7 +49,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 <a href="https://github.com/wala/WALA">
 <img src="http://wala.sourceforge.net/wiki/images/9/94/WALA-banner.png" alt="drawing" width="160">
 </a>
-
+<br>
 
 ## Research Interests
 - Program Analysis
