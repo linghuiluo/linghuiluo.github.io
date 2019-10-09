@@ -88,6 +88,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 
 ## Academic Work Experience
 - **Research Intern**, 07/01/2019 - 03/02/2019, Research in collaboration with [Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. 
+  - Design and development of MagpieBridge, a framework für integrating static analyses into IDEs and editors. 
 - **Research Assistant**, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
 - **Student Assistant**, 02/2015 – 03/2017, Research group Theory of Distributed System, Paderborn University, Paderborn, Germany.
   - Design and development of a simulator in Java for evaluating various distributed algorithms.
@@ -102,24 +103,18 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
   - Design and development of a new Soot framework.
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
   - Research in usable static analysis.
-- [MultiSkipGraph](https://linghuiluo.github.io/MultiSkipGraph/), 2016 - 2017, Project for submission to IPDPS19.
-  - Design of protocols and implementation of simulator. 
-  - [Project Repository](https://github.com/linghuiluo/MultiSkipGraph)
 - [SanDMAN](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-completed/sandman/), 
 04/2016 - 03/2017, Student project group in the context of the European project [SONATA](https://cs.uni-paderborn.de/cn/research/research-projects/completed-projects/sonata/).
   - Design and implementation of web editors for facilitating the service development task for developers.
   - [Project Repository](https://github.com/CN-UPB/upb-son-editor-frontend) 
 
-  
 ## Teaching Experience 
 ### Teaching Assistant
+- Software Engineering Training, 10/2019 - 02/2020, Paderborn University. (Bachlor course)
 - Secure Software Engineering, 04/2019 – 07/2019, Paderborn University. (Bachelor course)
 - Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 - Seminar Secure Systems Engineering, 10/2017 – 02/2018, Paderborn University. (Master course)
 - Secure Software Engineering, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
-
-### Substitute Lecturer
-- Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 
 ### Student Tutor
 - Introduction to Computability, Complexity and Formal Languages, 10/2016 – 02/2017, Paderborn University. (Bachelor course)
