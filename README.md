@@ -60,12 +60,12 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 - Automatic Test Generation 
 
 ## Posters, Videos and Blog Posts 
-- :pencil: **COVA: A Static Analysis Tool for Computing Partial Path Conditions** ([Blog Post](https://medium.com/ase-conference/cova-a-static-analysis-tool-for-computing-partial-path-conditions-c3c08313f124))
-- :tv: **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors** ([Video](https://youtu.be/w56Bxxa_Ppo))
-- :page_facing_up: **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Poster](ECOOP19MagpieBridgePoster.pdf))
-- :page_facing_up: **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Poster](cova_poster_google.pdf))
-- :page_facing_up: **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
-- :page_facing_up: **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
+- **COVA: A Static Analysis Tool for Computing Partial Path Conditions** ([Blog Post](https://medium.com/ase-conference/cova-a-static-analysis-tool-for-computing-partial-path-conditions-c3c08313f124))
+- **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors** ([Video](https://youtu.be/w56Bxxa_Ppo))
+- **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Poster](ECOOP19MagpieBridgePoster.pdf))
+- **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Poster](cova_poster_google.pdf))
+- **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
+- **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
 
 ## Publications 
 - 2019
