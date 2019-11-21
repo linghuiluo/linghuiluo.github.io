@@ -62,20 +62,20 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 ## Posters, Videos and Blog Posts 
 - **COVA: A Static Analysis Tool for Computing Partial Path Conditions** ([Blog Post](https://medium.com/ase-conference/cova-a-static-analysis-tool-for-computing-partial-path-conditions-c3c08313f124))
 - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors** ([Video](https://youtu.be/w56Bxxa_Ppo))
-- **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Poster](ECOOP19MagpieBridgePoster.pdf))
-- **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Poster](cova_poster_google.pdf))
-- **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018-05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
+- **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019 – 19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Poster](ECOOP19MagpieBridgePoster.pdf))
+- **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018 – 05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Poster](cova_poster_google.pdf))
+- **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018 – 05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
 
 ## Publications 
 - 2019
-  - **A Qualitative Analysis of Android Taint-Analysis Results**, 11/11/2019-15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.<br>
+  - **A Qualitative Analysis of Android Taint-Analysis Results**, 11/11/2019 – 15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.<br>
   **Linghui Luo**, Eric Bodden, Johannes Späth<br>
   ([Paper](ASE19Cova.pdf), [Slides](COVA-ASE19-Talk-public.pdf), [Open Source Project](https://github.com/secure-software-engineering/COVA)) 
-  - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019-19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom.<br>
+  - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019 – 19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom.<br>
   **Linghui Luo**, Julian Dolby, Eric Bodden<br>
   ([Paper](ECOOP19MagpieBridge.pdf), [Slides](MagpieBridge-ECOOP19-Talk.pdf), [DOI]( https://doi.org/10.4230/LIPIcs.ECOOP.2019.21), [Open Source Project](https://github.com/MagpieBridge/MagpieBridge), [Video](https://youtu.be/w56Bxxa_Ppo))
-  - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability**, 20/05/2019-24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil.<br> 
+  - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability**, 20/05/2019 – 24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil.<br> 
   **Linghui Luo**, Christian Scheideler, Thim Strothmann<br>
   ([Paper](multiskipgraphIPDPS.pdf), [Slides](MultiSkipGraph-IPDPS19-Talk.pdf), [DOI](https://ieeexplore.ieee.org/document/8820950/), [Open Source Project](https://github.com/linghuiluo/MultiSkipGraph))
 - 2017 
@@ -89,7 +89,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 - **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Academic Work Experience
-- **Research Intern**, 07/01/2019 - 03/02/2019, Research in collaboration with [Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. 
+- **Research Intern**, 07/01/2019 – 03/02/2019, Research in collaboration with [Dr. Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. 
   - Design and development of MagpieBridge, a framework für integrating static analyses into IDEs and editors. 
 - **Research Assistant**, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
 - **Student Assistant**, 02/2015 – 03/2017, Research group Theory of Distributed System, Paderborn University, Paderborn, Germany.
@@ -99,6 +99,9 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 ## Other Work Experience
 - **Student Assistant**, 11/2013 – 01/2015, Wincor Nixdorf, Paderborn, Germany.
   - Software unit and integration testing for a security software used in ATMs.
+
+## Services
+- **Student Volunteer**, 11/11/2019 – 15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.
 
 ## Projects 
 - [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/Sable/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), Call for Research Software Sustainability
@@ -112,7 +115,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 
 ## Teaching Experience 
 ### Teaching Assistant
-- Software Engineering Training, 10/2019 - 02/2020, Paderborn University. (Bachlor course)
+- Software Engineering Training, 10/2019 – 02/2020, Paderborn University. (Bachlor course)
 - Secure Software Engineering, 04/2019 – 07/2019, Paderborn University. (Bachelor course)
 - Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 - Seminar Secure Systems Engineering, 10/2017 – 02/2018, Paderborn University. (Master course)
