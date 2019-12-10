@@ -68,6 +68,9 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
 
 ## Publications 
+- 2020
+  - **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering (**ICSE**) 2020, Seoul, South Korea (to appear). <br>
+    Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller 
 - 2019
   - **A Qualitative Analysis of Android Taint-Analysis Results**, 11/11/2019 – 15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.<br>
   **Linghui Luo**, Eric Bodden, Johannes Späth<br>
