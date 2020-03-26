@@ -60,6 +60,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 - Automatic Test Generation 
 
 ## Posters, Videos and Blog Posts 
+- **A Qualitative Analysis of Android Taint-Analysis Results** ([Video](https://youtu.be/YvoAm7iBiOQ))
 - **COVA: A Static Analysis Tool for Computing Partial Path Conditions** ([Blog Post](https://medium.com/ase-conference/cova-a-static-analysis-tool-for-computing-partial-path-conditions-c3c08313f124))
 - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors** ([Video](https://youtu.be/w56Bxxa_Ppo))
 - **How to Use MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, 15/07/2019 – 19/07/2019, European Conference on Object-Oriented Programming (**ECOOP**) 2019, London, United Kingdom. ([Poster](ECOOP19MagpieBridgePoster.pdf))
