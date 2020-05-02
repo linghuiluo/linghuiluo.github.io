@@ -11,31 +11,18 @@ create usable analysis tools at first."
   
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
 
-Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis and empirical software engineering. She believes Open Source is the future and contributes to the open source community. To know about her recent activities, please follow her on Twitter [@LinghuiLuo](https://twitter.com/LinghuiLuo).
+Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly Java and Android applications) and empirical software engineering. She believes Open Source is the future and contributes to the open source community. 
 
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/LinghuiLuo
-[6]: https://github.com/linghuiluo
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- display social media buttons in your README -->
+<!-- Github -->
+<a href="https://github.com/linghuiluo">
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="drawing" width="55" hspace="5"></a>
+<!-- Twitter-->
+<a href="https://twitter.com/LinghuiLuo">
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/600px-Twitter_bird_logo_2012.svg.png" alt="drawing" width="50" hspace="5"></a>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/linghui-luo">
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="50" hspace="5"></a>
 
 ## Contribution to Open Source
 <a href="https://github.com/MagpieBridge">
@@ -83,10 +70,13 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
   - **MultiSkipGraph: A Self-stabilizing Overlay Network that Maintains Monotonic Searchability**, 20/05/2019 – 24/05/2019, IEEE International Parallel & Distributed Processing Symposium (**IPDPS**) 2019, Rio de Janeiro, Brazil.<br> 
   **Linghui Luo**, Christian Scheideler, Thim Strothmann<br>
   ([Paper](multiskipgraphIPDPS.pdf), [Slides](MultiSkipGraph-IPDPS19-Talk.pdf), [DOI](https://ieeexplore.ieee.org/document/8820950/), [Open Source Project](https://github.com/linghuiluo/MultiSkipGraph))
+
+<!--
 - 2017 
   - [MultiSkipList: A Self-stabilizing Overlay Network with Monotonic Searchability maintained](https://ris.uni-paderborn.de/record/81), Master Thesis 
 - 2014
   - [Ein selbst-stabilisierender Algorithmus für das Finite Sleep Problem in Skip+ Graphen](https://ris.uni-paderborn.de/record/434), Bachelor Thesis
+-->
 
 ## Education 
 - **M. Sc. In Computer Science**, 2017, Paderborn University, Paderborn, Germany.
@@ -110,7 +100,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 
 ## Projects 
 - [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/Sable/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), Call for Research Software Sustainability
-  - Design and development of a new Soot framework.
+  - Management, design and development of a new Soot framework.
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
   - Research in usable static analysis.
 - [SanDMAN](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-completed/sandman/), 
@@ -120,11 +110,10 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 
 ## Teaching Experience 
 ### Teaching Assistant
+- Secure Software Engineering, 04/2020 – 07/2020, 04/2019 – 07/2019, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
 - Software Engineering Training, 10/2019 – 02/2020, Paderborn University. (Bachlor course)
-- Secure Software Engineering, 04/2019 – 07/2019, Paderborn University. (Bachelor course)
 - Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 - Seminar Secure Systems Engineering, 10/2017 – 02/2018, Paderborn University. (Master course)
-- Secure Software Engineering, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
 
 ### Student Tutor
 - Introduction to Computability, Complexity and Formal Languages, 10/2016 – 02/2017, Paderborn University. (Bachelor course)
@@ -147,25 +136,3 @@ She also enjoys music and tries to learn playing musical intructments. Currently
 Please send an email in English, German or Chinese.
 
 &#x2709; linghui[at]outlook.de
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/LinghuiLuo
-[6]: https://github.com/linghuiluo
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
