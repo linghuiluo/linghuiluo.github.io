@@ -16,7 +16,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 <!-- display social media buttons in your README -->
 <!-- Github -->
 <a href="https://github.com/linghuiluo">
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="drawing" width="55" hspace="5"></a>
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="drawing" width="50" hspace="5"></a>
 <!-- Twitter-->
 <a href="https://twitter.com/LinghuiLuo">
 <img src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/600px-Twitter_bird_logo_2012.svg.png" alt="drawing" width="50" hspace="5"></a>
