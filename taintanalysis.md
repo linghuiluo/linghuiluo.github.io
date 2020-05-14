@@ -3,7 +3,7 @@
 Taint analysis is a technique that is mostly used to detect security vulnerabilities.
 It tracks information flow through a program. 
 Untrusted input and sensitive data are often the information that are tracked in a taint analysis.
-A list of commone security vulnerabilities which can be detected by taint analysis:
+A list of common security vulnerabilities which can be detected by taint analysis:
 - SQL Injection (cwe-89)
 - OS Command Injection (cwe-78)
 - XXS (cwe-79)
