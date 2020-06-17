@@ -32,7 +32,7 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 <img src="https://github.com/secure-software-engineering/COVA/blob/master/cova-logo.PNG?raw=true" alt="drawing" width="150" hspace="5">
 </a>
 <a href="https://github.com/Sable/soot">
-<img src="https://avatars1.githubusercontent.com/u/61974145?s=200&v=4" alt="drawing" width="120" hspace="5">
+<img src="https://soot-oss.github.io/soot/logo/soot-logo.png" alt="drawing" width="120" hspace="5">
 </a>
 <a href="https://github.com/wala/WALA">
 <img src="http://wala.sourceforge.net/wiki/images/9/94/WALA-banner.png" alt="drawing" width="160" hspace="10">
