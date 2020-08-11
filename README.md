@@ -97,7 +97,9 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
   - Software unit and integration testing for a security software used in ATMs.
 
 ## Services
-- **Student Volunteer**, 11/11/2019 – 15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.
+- **Reviewer**, Artifact Evaluation, OOPSLA 2020 
+- **Student Volunteer**, ASE 2019
+- **Sub-reviewer**, Research Track, ASE 2018
 
 ## Projects 
 - [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/Sable/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), Call for Research Software Sustainability
