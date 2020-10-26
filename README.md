@@ -85,6 +85,8 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 - **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Academic Work Experience
+- **Applied Scientist Intern**, 09/2019 - Now, Research Internship in team CodeGuru at Amazon Web Services, Berlin, Germany.  
+  - Supervisor: [Dr. Martin Schäf](https://www.martinschaef.de/) 
 - **Research Intern**, 01/2019 – 02/2019, Research in collaboration with [Dr. Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. 
   - Design and development of MagpieBridge, a framework für integrating static analyses into IDEs and editors. 
 - **Research Assistant**, 07/2017 – Present, Research group Software Engineering, Paderborn University, Paderborn, Germany.
