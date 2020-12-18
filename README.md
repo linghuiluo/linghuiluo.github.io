@@ -87,7 +87,7 @@ She believes Open Source is the future and contributes to the open source commun
 - **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Academic Work Experience
-- **Applied Scientist Intern**, 09/2020 - 12/2020, Research Internship in team CodeGuru at Amazon Web Services, Berlin, Germany.  
+- **Applied Scientist Intern**, 09/2020 - 01/2021, Research Internship in team CodeGuru at Amazon Web Services, Berlin, Germany.  
   - Supervisor: [Dr. Martin Schäf](https://www.martinschaef.de/) 
 - **Research Intern**, 01/2019 – 02/2019, Research in collaboration with [Dr. Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. 
   - Design and development of MagpieBridge, a framework für integrating static analyses into IDEs and editors. 
