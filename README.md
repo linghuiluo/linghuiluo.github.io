@@ -11,7 +11,8 @@ create usable analysis tools at first."
   
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
 
-Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) and empirical software engineering. She believes Open Source is the future and contributes to the open source community. 
+Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) and empirical software engineering. She is mostly interested in designing and tuning program analysis tools based on the needs of software developers and empirical data from the real world. 
+She believes Open Source is the future and contributes to the open source community. 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
@@ -42,8 +43,9 @@ Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden]
 ## Research Interests
 - Program Analysis
 - Empirical Software Engineering
-- Concolic & Symbolic Execution
+- Usability of Program Analysis Tools 
 - Benchmarking Program Analysis Tools
+- Concolic & Symbolic Execution
 - Automatic Test Generation 
 
 ## Posters, Videos and Blog Posts 
