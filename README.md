@@ -26,7 +26,7 @@ She believes Open Source is the future and contributes to the open source commun
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="50" hspace="5"></a>
 <!-- dblp -->
 <a href="https://dblp.org/pid/244/4638.html">
-<img src ="https://dblp.org/img/logo.320x120.png" alt="drawing" width="50" hspace="5"></a>
+<img src ="https://dblp.org/img/logo.320x120.png" alt="drawing" width="120" hspace="5"></a>
 
 ## Contribution to Open Source
 <a href="https://github.com/MagpieBridge">
