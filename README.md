@@ -65,7 +65,7 @@ She believes Open Source is the future and contributes to the open source commun
 - 2020
   - **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering (**ICSE**) 2020, Seoul, South Korea, **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
     Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller<br> 
-    ([Preprint](ICSE20HeapDump.pdf))
+    ([Paper](ICSE20HeapDump.pdf), [DOI](https://doi.org/10.1145/3377811.3380438))
 - 2019
   - **A Qualitative Analysis of Android Taint-Analysis Results**, 11/11/2019 – 15/11/2019, The 34th IEEE/ACM International Conference on Automated Software Engineering (**ASE**) 2019, San Diego, California, United States.<br>
   **Linghui Luo**, Eric Bodden, Johannes Späth<br>
