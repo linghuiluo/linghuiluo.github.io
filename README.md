@@ -14,7 +14,7 @@ create usable analysis tools at first."
 Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) and empirical software engineering. She is mostly interested in designing and tuning program analysis tools based on the needs of software developers and empirical data from the real world. 
 She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project. 
 
-:mega: I am graduating this fall, looking for a job in industry. 
+<p>📢</p> I am graduating this fall, looking for a job in industry. 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
@@ -66,7 +66,7 @@ She believes Open Source is the future and contributes to the open source commun
 ## Publications 
 - 2021 ongoing
   - A Journal paper is conditionally accepted with minor revision by EMSE. 
-  - :crossed_fingers: A conference paper is currently under review by ESEC/FSE. 
+  - <p>🤞</p> A conference paper is currently under review by ESEC/FSE. 
 - 2020
   - **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering (**ICSE**) 2020, Seoul, South Korea, **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
     Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller<br> 
