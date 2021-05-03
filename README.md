@@ -48,10 +48,9 @@ She believes Open Source is the future and contributes to the open source commun
 - Program Analysis
 - Empirical Software Engineering
 - Usability of Program Analysis Tools 
-- Benchmarking Program Analysis Tools
 - Concolic & Symbolic Execution
 - Automatic Test Generation 
--   
+
 ## Posters, Videos and Blog Posts 
 - **DRY and Use MagpieBridge for IDE Integration**, 15/06/2020, 9th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis (**SOAP**) 2020. ([Video](https://youtu.be/6MLlOEsPW1k), [Slides](soap-talk.pdf)).
 - **A Qualitative Analysis of Android Taint-Analysis Results** ([Video](https://youtu.be/dD-VliMsQvw))
