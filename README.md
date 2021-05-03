@@ -12,7 +12,9 @@ create usable analysis tools at first."
 <img src="avatar.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
 
 Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research assistant in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) and empirical software engineering. She is mostly interested in designing and tuning program analysis tools based on the needs of software developers and empirical data from the real world. 
-She believes Open Source is the future and contributes to the open source community. 
+She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project. 
+
+:mega: I am graduating this fall, looking for a job in industry. 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
@@ -29,7 +31,7 @@ She believes Open Source is the future and contributes to the open source commun
 <img src ="https://dblp.org/img/logo.320x120.png" alt="drawing" width="120" hspace="5"></a>
 
 ## Contribution to Open Source
-<a href="https://github.com/MagpieBridge">
+<a href="https://github.com/MagpieBridge/MagpieBridge">
 <img src="https://github.com/MagpieBridge/MagpieBridge/blob/develop/doc/logshort.png?raw=true" alt="drawing" width="140" hspace="5">
 </a>
 <a href="https://github.com/secure-software-engineering/COVA">
@@ -50,7 +52,7 @@ She believes Open Source is the future and contributes to the open source commun
 - Benchmarking Program Analysis Tools
 - Concolic & Symbolic Execution
 - Automatic Test Generation 
-
+-   
 ## Posters, Videos and Blog Posts 
 - **DRY and Use MagpieBridge for IDE Integration**, 15/06/2020, 9th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis (**SOAP**) 2020. ([Video](https://youtu.be/6MLlOEsPW1k), [Slides](soap-talk.pdf)).
 - **A Qualitative Analysis of Android Taint-Analysis Results** ([Video](https://youtu.be/dD-VliMsQvw))
@@ -62,6 +64,9 @@ She believes Open Source is the future and contributes to the open source commun
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
 
 ## Publications 
+- 2021 ongoing
+  - A Journal paper is conditionally accepted with minor revision by EMSE. 
+  - :crossed_fingers: A conference paper is currently under review by ESEC/FSE. 
 - 2020
   - **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering (**ICSE**) 2020, Seoul, South Korea, **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
     Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller<br> 
@@ -110,7 +115,7 @@ She believes Open Source is the future and contributes to the open source commun
 - **Sub-reviewer**, Research Track, ASE 2018
 
 ## Projects 
-- [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/Sable/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), Call for Research Software Sustainability
+- [FutureSoot](http://gepris.dfg.de/gepris/projekt/391001466): Future-proofing the [Soot](https://github.com/soot-oss/soot) Framework for Program Analysis and Transformation, 01/2018 – Present, Project of the German Research Foundation (DFG), Call for Research Software Sustainability
   - Management, design and development of a new Soot framework.
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/): Intelligent Developer Support for Static Vulnerability Analyses, 10/2017 – Present, Part-project of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))"
   - Research in usable static analysis.
@@ -121,7 +126,7 @@ She believes Open Source is the future and contributes to the open source commun
 
 ## Teaching Experience 
 ### Teaching Assistant
-- Secure Software Engineering, 04/2020 – 07/2020, 04/2019 – 07/2019, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
+- Secure Software Engineering, 04/2021 – 07/2021, 04/2020 – 07/2020, 04/2019 – 07/2019, 10/2017 – 02/2018, Paderborn University. (Bachelor course)
 - Software Engineering Training, 10/2019 – 02/2020, Paderborn University. (Bachlor course)
 - Designing Code Analyses for Large-scale Software Systems, 04/2018 – 08/2018, Paderborn University. (Master course)
 - Seminar Secure Systems Engineering, 10/2017 – 02/2018, Paderborn University. (Master course)
