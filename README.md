@@ -85,7 +85,8 @@ She believes Open Source is the future and contributes to the open source commun
 - **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018 – 05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Poster](cova_poster_google.pdf))
 - **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018 – 05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
-
+-
+# Things for a Resume/CV
 ## Education 
 - **M. Sc. In Computer Science**, 2017, Paderborn University, Paderborn, Germany.
 - **Exchange Semester In Computer Science**, 2015, Beihang University, Beijing, China.
