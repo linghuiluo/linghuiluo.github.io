@@ -111,7 +111,7 @@ framework for integrating static analyses into IDEs and Editors. A paper from th
 - **Student Assistant**, 11/2013 – 01/2015, Wincor Nixdorf, Paderborn, Germany.
   - I wrote unit and integration tests for a security software used in ATMs.
   
-## Services
+## Academic Services
 - **Reviewer**, ACM Transactions on Software Engineering and Methodology (TOSEM)
 - **Reviewer**, Artifact Evaluation, OOPSLA 2020 
 - **Student Volunteer**, ASE 2019
@@ -139,6 +139,8 @@ framework for integrating static analyses into IDEs and Editors. A paper from th
 - Data Structure and Algorithms, 2012 – 2016, Paderborn University. (Bachelor course)
 - Analysis, 10/2012 – 02/2013, Paderborn University. (Bachelor course)
 - Modeling, 10/2011 – 02/2012, Paderborn University. (Bachelor course)
+
+# Other Stuffs
 
 ## Linghui's Notes 
 - [Program Analysis Tools](https://gist.github.com/linghuiluo/9a079d75a776e749ba7a9efc3c45e096)
