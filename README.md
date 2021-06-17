@@ -53,8 +53,10 @@ She believes Open Source is the future and contributes to the open source commun
 
 ## Publications 
 - 2021 ongoing
-  - Our paper "IDE Support for Cloud-Based Static Analyses" is accepted by ESEC/FSE2021!
-  - A Journal paper is conditionally accepted with minor revision by EMSE. 
+  - A Journal paper is conditionally accepted with minor revision by EMSE.
+  - **IDE Support for Cloud-Based Static Analyses**, 23/08/2021 – 28/08/2021, The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**) 2021, Athens, Greece. <br>
+    **Linghui Luo**, Martin Schäf, Daniel Sanchez, Eric Bodden<br>
+    ([Paper](FSE21.pdf), [DOI (to appear)](https://doi.org/10.1145/3468264.3468535))
 - 2020
   - **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering (**ICSE**) 2020, Seoul, South Korea, **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
     Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller<br> 
