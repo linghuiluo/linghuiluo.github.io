@@ -101,12 +101,12 @@ She believes Open Source is the future and contributes to the open source commun
    - I am doing research in improving real-world applicability of static taint analysis for Java/Android applications, which is also the focus of my PhD thesis. In addition to research, I have assisted in teaching and organizing several courses held by our research group.
    - Advised by [Prof. Eric Bodden](https://www.bodden.de/)
 - **Applied Scientist Intern**, 09/2020 - 01/2021, Research Internship in team CodeGuru at Amazon Web Services, Berlin, Germany.  
-  - The internship was planned to happen in the US. Due to COVID-19, I worked remotely with the team AWS CodeGuru in the US from Germany. During the internship, I was
+  - The internship was planned to happen in the US. Due to COVID-19, I worked remotely with the team AWS CodeGuru in the US from Germany. During the internship, I worked on
 exploring the possibility of supporting IDE integration for cloud-based static analyses. I built a research prototype and conducted user studies with software developers at
 Amazon. A paper from this work was accepted by the ESEC/FSE conference 2021.
   - Advised by [Dr. Martin Schäf](https://www.martinschaef.de/) 
 - **Research Intern**, 01/2019 – 02/2019, Research in collaboration with [Dr. Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby) at IBM Thomas J. Watson Research Center, New York, USA. 
-  - The internship was planned as a research collaboration, invited by Dr. Dolby from IBM research. During the internship, I designed and developed the MagpieBridge
+  - The internship was planned as a research collaboration, invited by Dr. Dolby from IBM research. During the internship, I worked on design and development of the MagpieBridge
 framework for integrating static analyses into IDEs and Editors. A paper from this work was published at the ECOOP conference 2019.
   - Advised by [Dr. Julian Dolby](https://researcher.watson.ibm.com/researcher/view.php?person=us-dolby)
 - **Student Assistant**, 02/2015 – 03/2017, Research group Theory of Distributed System, Paderborn University, Paderborn, Germany.
