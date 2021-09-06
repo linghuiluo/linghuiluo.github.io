@@ -53,7 +53,7 @@ She believes Open Source is the future and contributes to the open source commun
 
 ## Publications 
 - 2021 ongoing
-  - **A General Approach to Modeling Java Framework Behaviors**,23/08/2021 – 28/08/2021, Student Research Competition At The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**) 2021, Athens, Greece. **Awarded: Silver Medal Winner (Second Place)**<br>
+  - **A General Approach to Modeling Java Framework Behaviors**,23/08/2021 – 28/08/2021, Student Research Competition At The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**) 2021, Athens, Greece. **Awarded: Silver Medal Winner (Second Place)**.<br>
     **Linghui Luo**<br>
      ([Paper](FSE-SRC21.pdf), [DOI](https://doi.org/10.1145/3468264.3473489))
   - **TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses**, Empirical Software Engineering (**EMSE**) 2021 (to appear) <br>
