@@ -41,7 +41,11 @@ She believes Open Source is the future and contributes to the open source commun
 </a>
 <a href="https://github.com/wala/WALA">
 <img src="https://camo.githubusercontent.com/f93ac6c787736f5dd26e31ba2b3f4654bf1b7475c52d2e305408633207ce79d9/687474703a2f2f77616c612e736f75726365666f7267652e6e65742f77696b692f696d616765732f392f39342f57414c412d62616e6e65722e706e67" alt="drawing" width="160" hspace="10">
+</a><br>
+<a href="https://marketplace.visualstudio.com/items?itemName=LinghuiLuo.inferide">
+InferIDE (Visual Studio Extension for Facebook Infer)
 </a>
+
 <br>
 
 ## Research Interests
