@@ -44,9 +44,7 @@ She believes Open Source is the future and contributes to the open source commun
 </a><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=LinghuiLuo.inferide">
 InferIDE (Visual Studio Extension for Facebook Infer)
-</a>
-
-<br>
+</a><br>
 
 ## Research Interests
 - Program Analysis
