@@ -9,7 +9,7 @@ convention in secure software development. However, we need to
 create usable analysis tools at first."                                                               
                                                            
   
-<img src="profile.jpg" alt="drawing" width="120" style="float: left;" hspace="5"/> 
+<img src="profile.jpeg" alt="drawing" width="280" style="float: left;" hspace="5"/> 
 
 Linghui Luo (Chinese: 罗灵慧) is a PhD student advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) and empirical software engineering. She is mostly interested in designing and tuning program analysis tools based on the needs of software developers and empirical data from the real world. 
 She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project. 
