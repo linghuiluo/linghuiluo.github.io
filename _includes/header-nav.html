@@ -18,7 +18,7 @@
       }
 </style>
 {{page.url}}
-{% assign url = page.url|remove:'index.html' %}
+{% assign url = page.url|remove:'.html' %}
 <ul class="nav nav-pills" role="tablist">
       {% for link in site.navigation %}
       <li class="nav-item{% if url == link.url %} active{% endif %}">
