@@ -55,7 +55,7 @@ You can send me an email in English, German or Chinese. I prefer English for any
 &#x2709; linghui[at]outlook.de
 
 ## Life Outside of Work
-Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat (Alan) and a black cat (Hacker).
+Together with her husband Linghui keeps three beloved pets: a dog, a cat and a black cat.
 She loves to spend her time with her pets and do sports such as bouldering and swimming (before COVID-19). 
 She also enjoys music and plays the cello. 
 
