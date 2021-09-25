@@ -2,7 +2,8 @@
 ### Peer-reviewed Conference Papers
 - 2021 
   - **ESEC/FSE**<br>
-    **A General Approach to Modeling Java Framework Behaviors**,23/08/2021 – 28/08/2021, Student Research Competition At The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2021, Athens, Greece. **Awarded: Silver Medal Winner (Second Place)**.<br>
+    **A General Approach to Modeling Java Framework Behaviors**, 23/08/2021 – 28/08/2021, Student Research Competition At The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2021, Athens, Greece. <br>
+    **Awarded: Silver Medal Winner (Second Place)**.<br>
     **Linghui Luo**<br>
      ([Paper](FSE-SRC21.pdf), [DOI](https://doi.org/10.1145/3468264.3473489), [5 Mins Video](https://t.co/tT40YwWC1N?amp=1), [10 Mins Video](https://youtu.be/u5R__D7o32U))
   - **ESEC/FSE**<br>
@@ -11,7 +12,8 @@
     ([Paper](FSE21.pdf), [DOI](https://doi.org/10.1145/3468264.3468535), [Video](https://youtu.be/D3cBajyQPJw))
 - 2020
   - **ICSE**<br> 
-    **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering 2020, Seoul, South Korea, **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
+    **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering 2020, Seoul, South Korea. <br>
+    **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
     Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller<br> 
     ([Paper](ICSE20HeapDump.pdf), [Artifact](https://zenodo.org/record/3627973#.YMuxb2gzaiM), [DOI](https://doi.org/10.1145/3377811.3380438))
 - 2019
