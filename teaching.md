@@ -48,3 +48,13 @@ differential and integral calculus, power series.
 - **Modeling (Modelierung)**, Bachelor Course in German, Paderborn University
   - Winter 2011
   - Content: The course covers basic concepts of modeling and calculus in computer science: value ranges, terms,algebras, propositional logic, verification of algorithms, graphs, context-free grammars, XML, UML diagrams, entity-relationship model, finite automata, Petri nets
+
+### Student Supervision
+Supervised Thesis at Paderborn University
+- Master Thesis (ongoing): Extending MagpieBridge by Supporting IDE Integration of SAST Tools.
+2021
+- Master Thesis (ongoing):Extending MagpieBridge to Visualize Data-Flow Analysis Results.
+2021.
+- Master Thesis: Targeted Testing Input Generation for Android Applications. 2021. [Project](https://github.com/fynnh/COVA-results)
+- Bachelor Thesis: Jimple LSP Support – Erweiterbare IDE Unterstützung für Jimple. 2020. [Project](https://github.com/swissiety/JimpleLSP)
+- Master Thesis (Co-supervision with Johannes Späth): Sven Erik Vinkemeier. Path Cconditions to Enhance Comprehension of Cryptographic Misuses. 2019. [Project](https://github.com/MagpieBridge/Masterarbeit-CogniCryptVSCode)
