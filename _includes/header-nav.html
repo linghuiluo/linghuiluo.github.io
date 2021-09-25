@@ -22,10 +22,13 @@
       }
 </style>
 {% assign url = page.url|remove:'.html' %}
+{% assign activeId = url|remove:'/' %}
 <ul class="nav nav-pills" role="tablist">
       {% for link in site.navigation %}
+      {% assign id = link.url|remove:'/' %}
       <li class="nav-item{% if url == link.url %} active{% endif %}">
-        <a class="nav-link{% if url == link.url %} active{% endif %}" href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+        <a id="{{id}}" class="nav-link{% if url == link.url %} active{% endif %}" href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
       </li>
       {% endfor %}
 </ul>
+<script>(function(){location.hash='#'+'{{id}}';})()</script>
