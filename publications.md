@@ -13,7 +13,7 @@
 - 2020
   - **ICSE**<br> 
     **Heaps'n Leaks: How Heap Snapshots Improve Android Taint Analysis**, 23/05/2020 – 29/05/2020, The 42nd International Conference on Software Engineering 2020, Seoul, South Korea. <br>
-    **Awarded: Artifact Evaluation Award (Available, Reusable)**. <br>
+    **Awarded: Artifact Evaluation (Available, Reusable)**. <br>
     Manuel Benz, Erik Krogh Kristensen, **Linghui Luo**, Nataniel P. Borges Jr., Eric Bodden, Andreas Zeller<br> 
     ([Paper](ICSE20HeapDump.pdf), [Artifact](https://zenodo.org/record/3627973#.YMuxb2gzaiM), [DOI](https://doi.org/10.1145/3377811.3380438))
 - 2019
