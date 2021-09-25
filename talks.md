@@ -4,8 +4,7 @@
 - **One Is Not Enough: Integrating CongiCrypt into Multiple IDEs and Editors with MagpieBridge**, 07/2019, Panathon Workshop at ECOOP 2019.
 
 ## Recorded Conference Talks
-- **A General Approach to Modeling Java Framework Behaviors**,  ACM Student Research Competition at ESEC/FSE 2021. <br> 
-  ([5 Mins Video](https://t.co/tT40YwWC1N?amp=1), [10 Mins Video](https://youtu.be/u5R__D7o32U))
+- **A General Approach to Modeling Java Framework Behaviors**,  ACM Student Research Competition at ESEC/FSE 2021. ([5 Mins Video](https://t.co/tT40YwWC1N?amp=1), [10 Mins Video](https://youtu.be/u5R__D7o32U))
 - **IDE Support for Cloud-Based Static Analyses**, ESEC/FSE 2021. ([Video](https://youtu.be/D3cBajyQPJw))
 - **A Qualitative Analysis of Android Taint-Analysis Results**, ASE 2019. ([Video](https://youtu.be/dD-VliMsQvw))
 - **MagpieBridge: A General Approach to Integrating Static Analyses into IDEs and Editors**, ECOOP 2019. ([Video](https://youtu.be/w56Bxxa_Ppo))
