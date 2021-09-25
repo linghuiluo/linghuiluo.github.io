@@ -1,12 +1,12 @@
 ## Biography 
 
->"The usage of security analysis tools should become an industrial
+>"The usage of Static Application Security Testing (SAST) Tools should become an industrial
 convention in secure software development. However, we need to
-create usable analysis tools at first."                                                               
+create usable tools at first."                                                               
 
 <img src="profile.jpeg" alt="drawing" width="300" style="float: left;" hspace="5"/> 
 
-Linghui Luo (罗灵慧) is a PhD candidate advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) and empirical software engineering. She is mostly interested in designing and tuning program analysis tools based on the needs of software developers and empirical data from the real world. 
+Linghui Luo (罗灵慧) is a PhD candidate advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications) with a security focus, empirical software engineering and usable security & privacy. She is mostly interested in designing and tuning static analysis tools based on the needs of software developers and empirical data from the real world. 
 She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project.
 
 <p>📢 My PhD defense is scheduled on on Oct. 27, 2021.</p> 
@@ -43,9 +43,9 @@ InferIDE (Visual Studio Code Extension for Facebook Infer)
 </a><br>
 
 ## Research Interests
-- Program Analysis
+- Security-related Program Analysis
 - Empirical Software Engineering
-- Usability of Program Analysis Tools 
+- Usable Security & Privacy
 - Concolic & Symbolic Execution
 - Automatic Test Generation 
 
@@ -56,7 +56,7 @@ You can send me an email in English, German or Chinese.
 
 ## Life Outside of Work
 Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat (Alan) and a black cat (Hacker).
-She loves to spend her time with her pets and do sports (before COVID-19) such as bouldering and swimming. 
+She loves to spend her time with her pets and do sports such as bouldering and swimming (before COVID-19). 
 She also enjoys music and plays the cello. 
 
 ## Linghui's Notes 
