@@ -1,3 +1,5 @@
+In case of job or collaboration opportunities, my complete CV can be requested by e-mail.
+
 ## Education 
 - **Ph.D. In Computer Science**, October 27th 2021 (Defense Date), Paderborn University, Germany.
 - **M. Sc. In Computer Science**, 2017, Paderborn University, Paderborn, Germany.
@@ -24,3 +26,7 @@ framework for integrating static analyses into IDEs and Editors. A research pape
 - **Student Tutor**, 2011  – 2017, Paderborn University, Paderborn, Germany.
   -  I worked as a student tutor since the second year of my bachelors. My responsibilities include giving students tutorials in the exercise courses and evaluating homework. See details in my [teaching experience](https://linghuiluo.github.io/teaching). 
   
+## Awards and Scholarships
+- Silver Medal (Second Place) at the ACM Student Research Competition, ESEC/FSE conference, 2021
+- NERD.NRW Scholarship Recipient, 2017
+- DAAD (German Academic Exchange Service) ISAP Scholarship Recipient, 2015
