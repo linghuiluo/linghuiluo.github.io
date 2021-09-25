@@ -59,4 +59,8 @@ Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat 
 She loves to spend her time with her pets and do sports such as bouldering and swimming (before COVID-19). 
 She also enjoys music and plays the cello. 
 
-
+## Linghui's Notes 
+- [Program Analysis Tools](https://gist.github.com/linghuiluo/9a079d75a776e749ba7a9efc3c45e096)
+- [Security Benchmarks](https://gist.github.com/linghuiluo/1189211c2799ef79e6e8e35dfded388a)
+- [Notes on Java](java.md)
+- [Notes on Soot](Soot_notes.md)
