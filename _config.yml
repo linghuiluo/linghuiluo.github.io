@@ -14,6 +14,8 @@ navigation:
   url: /services
 - text: Teaching
   url: /teaching
+- text: CV
+  url: /cv
 
 
 
