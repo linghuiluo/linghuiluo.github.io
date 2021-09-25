@@ -45,7 +45,7 @@ University
   - Content: The course covers basic concepts of calculus such as induction, real and complex numbers, sequences
 and series, limits of functions, continuity, differentiation and integration in a real variable, theorems of
 differential and integral calculus, power series.
-- **Modeling (Modelierung)**, Bachelor Course in German, Paderborn University
+- **Modeling** (Modelierung), Bachelor Course in German, Paderborn University
   - Winter 2011
   - Content: The course covers basic concepts of modeling and calculus in computer science: value ranges, terms,algebras, propositional logic, verification of algorithms, graphs, context-free grammars, XML, UML diagrams, entity-relationship model, finite automata, Petri nets
 
