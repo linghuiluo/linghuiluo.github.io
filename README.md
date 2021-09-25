@@ -1,7 +1,3 @@
----
-title: Linghui Luo
----
-
 ## Biography 
 
 >"The usage of security analysis tools should become an industrial
