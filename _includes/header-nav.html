@@ -1,6 +1,29 @@
+<style type="text/css">
+      ul.tabs {
+          display: table;
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+      }
+
+      ul.tabs>li {
+          float: left;
+          padding: 10px;
+      }
+
+      ul.tabs>li:hover {
+          background-color: lightgray;
+      }
+
+      ul.tabs>li.active {
+          background-color: lightgray;
+      }
+</style>
 {% assign url = page.url|remove:'index.html' %}
 {% for link in site.navigation %}
-<li {% if url == link.url %}class="active"{% endif %}>
-    <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
-</li>
+<ul class="tabs">
+    <li {% if url == link.url %}class="active"{% endif %}>
+        <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+    </li>
+</ul>
 {% endfor %}
