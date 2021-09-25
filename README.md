@@ -49,19 +49,18 @@ InferIDE (Visual Studio Code Extension for Facebook Infer)
 - Concolic & Symbolic Execution
 - Automatic Test Generation 
 
-# Other Stuff
+## Contact
+You can send me an email in English, German or Chinese.
+
+&#x2709; linghui[at]outlook.de
+
+## Life Outside of Work
+Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat (Alan) and a black cat (Hacker).
+She loves to spend her time with her pets and do sports (before COVID-19) such as bouldering and swimming. 
+She also enjoys music and plays the cello. 
+
 ## Linghui's Notes 
 - [Program Analysis Tools](https://gist.github.com/linghuiluo/9a079d75a776e749ba7a9efc3c45e096)
 - [Security Benchmarks](https://gist.github.com/linghuiluo/1189211c2799ef79e6e8e35dfded388a)
 - [Notes on Java](java.md)
 - [Notes on Soot](Soot_notes.md)
-
-## Life Outside of Work
-Together with her husband Linghui keeps three beloved pets: a dog (Java), a cat (Alan) and a black cat (Hacker).
-She loves to spend her time with her pets and do sports (before COVID-19) such as bouldering, water skiing, snowboarding and swimming. 
-She also enjoys music and plays the cello. 
-
-## Contact
-You can send me an email in English, German or Chinese.
-
-&#x2709; linghui[at]outlook.de
