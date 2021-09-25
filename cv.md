@@ -1,4 +1,4 @@
-In case of job or collaboration opportunities, my complete CV can be requested by e-mail.
+In case of job or collaboration opportunities, my complete CV in PDF can be requested by e-mail.
 
 ## Education 
 - **Ph.D. In Computer Science**, October 27th 2021 (Defense Date), Paderborn University, Germany.
