@@ -50,7 +50,7 @@ InferIDE (Visual Studio Code Extension for Facebook Infer)
 - Automatic Test Generation 
 
 ## Contact
-You can send me an email in English, German or Chinese.
+You can send me an email in English, German or Chinese. I prefer English for any inquiries regarding research. 
 
 &#x2709; linghui[at]outlook.de
 
