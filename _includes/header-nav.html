@@ -1,23 +1,25 @@
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <style type="text/css">
       .nav-pills{
-  width: 450px;
-}
-.nav-item{
-  width: 50%;
-}
-.nav-pills .nav-link{
-  font-weight: bold;
-  padding-top: 13px;
-  text-align: center;
-  background: #343436;
-  color: #fff;
-  border-radius: 30px;
-  height: 100px;
-}
-.nav-pills .nav-link.active{
-  background: #fff;
-  color: #000;
-}
+        width: 450px;
+      }
+      .nav-item{
+        width: 50%;
+      }
+      .nav-pills .nav-link{
+        font-weight: bold;
+        padding-top: 13px;
+        text-align: center;
+        background: #343436;
+        color: #fff;
+        border-radius: 30px;
+        height: 100px;
+      }
+      .nav-pills .nav-link.active{
+        background: #fff;
+        color: #000;
+      }
 </style>
 {% assign url = page.url|remove:'index.html' %}
 <ul class="nav nav-pills" role="tablist">
@@ -26,11 +28,4 @@
         <a class="nav-link{% if url == link.url %} active{% endif %}" href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
       </li>
       {% endfor %}
-</ul>
-
-
-<ul class="tabs">
-    <li >
-        <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
-    </li>
 </ul>
