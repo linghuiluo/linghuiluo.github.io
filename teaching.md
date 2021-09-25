@@ -53,9 +53,9 @@ differential and integral calculus, power series.
 Supervised Thesis at Paderborn University
 - **Master Thesis (ongoing)**: Extending MagpieBridge by Supporting IDE Integration of SAST Tools. 2021.
 - **Master Thesis (ongoing)**: Extending MagpieBridge to Visualize Data-Flow Analysis Results. 2021.
-- **Master Thesis**: Targeted Testing Input Generation for Android Applications. 2021.
+- **Master Thesis**: Targeted Testing Input Generation for Android Applications. 2021.<br>
   [Project Repository](https://github.com/fynnh/COVA-results)
-- **Bachelor Thesis**: Jimple LSP Support – Erweiterbare IDE Unterstützung für Jimple. 2020. 
+- **Bachelor Thesis**: Jimple LSP Support – Erweiterbare IDE Unterstützung für Jimple. 2020.<br>
   [Project Repository](https://github.com/swissiety/JimpleLSP)
-- **Master Thesis (Co-supervision with [Johannes Späth](https://johspaeth.github.io))**: Sven Erik Vinkemeier. Path Cconditions to Enhance Comprehension of Cryptographic Misuses. 2019. 
+- **Master Thesis (Co-supervision with [Johannes Späth](https://johspaeth.github.io))**: Sven Erik Vinkemeier. Path Cconditions to Enhance Comprehension of Cryptographic Misuses. 2019.<br>
   [Project Repository](https://github.com/MagpieBridge/Masterarbeit-CogniCryptVSCode)
