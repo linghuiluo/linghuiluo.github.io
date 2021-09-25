@@ -9,7 +9,7 @@ create usable tools at first."
 Linghui Luo (罗灵慧) is a PhD candidate advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University since July 2017. Her research interests include program analysis with a security focus (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications), empirical software engineering and usable security & privacy. She is mostly interested in designing and tuning static analysis tools based on the needs of software developers and empirical data from the real world. 
 She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project.
 
-<p>📢 My PhD defense is scheduled on on Oct. 27, 2021.</p> 
+<p>📢 My PhD defense is scheduled on Oct. 27, 2021.</p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
