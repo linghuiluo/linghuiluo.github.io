@@ -1,29 +1,36 @@
 <style type="text/css">
-      ul.tabs {
-          display: table;
-          list-style-type: none;
-          margin: 0;
-          padding: 0;
-      }
-
-      ul.tabs>li {
-          float: left;
-          padding: 10px;
-      }
-
-      ul.tabs>li:hover {
-          background-color: lightgray;
-      }
-
-      ul.tabs>li.active {
-          background-color: lightgray;
-      }
+      .nav-pills{
+  width: 450px;
+}
+.nav-item{
+  width: 50%;
+}
+.nav-pills .nav-link{
+  font-weight: bold;
+  padding-top: 13px;
+  text-align: center;
+  background: #343436;
+  color: #fff;
+  border-radius: 30px;
+  height: 100px;
+}
+.nav-pills .nav-link.active{
+  background: #fff;
+  color: #000;
+}
 </style>
 {% assign url = page.url|remove:'index.html' %}
-{% for link in site.navigation %}
+<ul class="nav nav-pills" role="tablist">
+      {% for link in site.navigation %}
+      <li class="nav-item{% if url == link.url %} active{% endif %}">
+        <a class="nav-link{% if url == link.url %} active{% endif %}" href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+      </li>
+      {% endfor %}
+</ul>
+
+
 <ul class="tabs">
-    <li {% if url == link.url %}class="active"{% endif %}>
+    <li >
         <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
     </li>
 </ul>
-{% endfor %}
