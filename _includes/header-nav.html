@@ -22,7 +22,6 @@
       }
 </style>
 {% assign url = page.url|remove:'.html' %}
-{% assign activeId = url|remove:'/' %}
 <ul class="nav nav-pills" role="tablist">
       {% for link in site.navigation %}
       {% assign id = link.url|remove:'/' %}
@@ -31,4 +30,3 @@
       </li>
       {% endfor %}
 </ul>
-<script>(function(){location.hash='#'+'{{activeId}}';})()</script>
