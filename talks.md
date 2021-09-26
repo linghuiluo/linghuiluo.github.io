@@ -16,3 +16,9 @@
 - **A Qualitative Analysis of Taint-Analysis Results**, 03/12/2018 – 05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. ([Poster](cova_poster_google.pdf))
 - **Integrating Soot-Based Static Analysis Tools into IDEs with Language Server Protocol**, 03/12/2018 – 05/12/2018, Google's 6th Compiler and Programming Language Summit, Munich, Germany. 
 - **Categorizing Static Analysis Results**, 04/2018, ISSTA18 PC Meeting Poster Session, Paderborn, Germany. ([Poster](cova_poster.pdf))
+
+## Linghui's Notes 
+- [Program Analysis Tools](https://gist.github.com/linghuiluo/9a079d75a776e749ba7a9efc3c45e096)
+- [Security Benchmarks](https://gist.github.com/linghuiluo/1189211c2799ef79e6e8e35dfded388a)
+- [Notes on Java](java.md)
+- [Notes on Soot](Soot_notes.md)
