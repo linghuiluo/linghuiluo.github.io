@@ -39,7 +39,7 @@ languages and regular languages, context-free grammar and languages, pushdown au
 - **Data Structure and Algorithms** (Datenstrukturen und Algorithmen), Bachelor Course in German, Paderborn
 University
   - Sommer 2016, Sommer 2015, Sommer 2014, Sommer 2013, Sommer 2012
-  - Content: This course covers design and analysis methods for efficient algorithms and data structures as well as basic examples: computational models, efficiency measures, invariants, sorting algorithms, data structures (list, tree, graph, hash tables), graph algorithms (DFS, BFS, shortest paths, minimal spanning trees), divide-andconquer, greedy algorithms, dynamic programming.
+  - Content: This course covers design and analysis methods for efficient algorithms and data structures as well as basic examples: computational models, efficiency measures, invariants, sorting algorithms, data structures (list, tree, graph, hash tables), graph algorithms (DFS, BFS, shortest paths, minimal spanning trees), divide-and-conquer, greedy algorithms, dynamic programming.
 - **Analysis**, Bachelor Course in German, Paderborn University
   - Winter 2012
   - Content: The course covers basic concepts of calculus such as induction, real and complex numbers, sequences
