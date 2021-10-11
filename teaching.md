@@ -4,7 +4,7 @@ Over the course of my PhD, I assisted in the teaching of several courses. My res
 - **Secure Software Engineering**, Bachelor Course in English, Paderborn University
   - Sommer 2021, Sommer 2020, Sommer 2019, Winter 2017
   - Content: This course covers the following core areas of cyber-attack-proof software design: threat modeling, secure design, secure programming, security validation, secure deployment and maintenance, common security vulnerabilities and exploits, common cryptographic algorithms and pitfalls, automatic vulnerability detection.
-- **Secure Engineering Training** (Softwaretechnikpraktikum), Bachelor Course in German, Paderborn University
+- **Software Engineering Training** (Softwaretechnikpraktikum), Bachelor Course in German, Paderborn University
   - Winter 2019
   - Content: This course is a practice-oriented course including lectures on software project management. Students work in a team of size ten to develop a complex software application. The students will experience a group-based software development process: project management planning, preparation of project plans, effort estimations, requirements specification, software design and implementation.
 - **Designing Code Analyses for Large-scale Software Systems**, Master Course in English, Paderborn University
@@ -30,7 +30,7 @@ During my bachelor’s and master’s studies, I worked as a student tutor since
   - Content: The course covers basic concepts of calculus such as induction, real and complex numbers, sequences and series, limits of functions, continuity, differentiation and integration in a real variable, theorems of differential and integral calculus, power series.
 - **Modeling** (Modelierung), Bachelor Course in German, Paderborn University
   - Winter 2011
-  - Content: The course covers basic concepts of modeling and calculus in computer science: value ranges, terms,algebras, propositional logic, verification of algorithms, graphs, context-free grammars, XML, UML diagrams, entity-relationship model, finite automata, Petri nets
+  - Content: The course covers basic concepts of modeling and calculus in computer science: value ranges, terms, algebras, propositional logic, verification of algorithms, graphs, context-free grammars, XML, UML diagrams, entity-relationship model, finite automata, Petri nets
 
 ### Student Supervision
 Supervised Thesis at Paderborn University
