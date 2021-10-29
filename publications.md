@@ -1,6 +1,4 @@
 ## Publications 
-### PhD Thesis
-**[Improving Real-World Applicability of Static Taint Analysis](Dissertation-Luo.pdf)**, 2021, Universität Paderborn. **Awarded: Summa cum laude** 
 
 ### Peer-reviewed Conference Papers
 - 2021 
@@ -39,3 +37,8 @@
       **TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses**, Empirical Software Engineering (**EMSE**), **Journal-First Paper**, 2021<br>
       **Linghui Luo**, Felix Pauck, Goran Piskachev, Manuel Benz, Ivan Pashchenko, Martin Mory, Eric Bodden, Ben Hermann, Fabio Massacci<br>
      ([Paper](https://rdcu.be/cAoKu), [Artifact](https://taintbench.github.io), [DOI](https://link.springer.com/article/10.1007%2Fs10664-021-10013-5))
+     
+### Linghui Luo's PhD Thesis
+**[Improving Real-World Applicability of Static Taint Analysis](Dissertation-Luo.pdf)**, 2021, Universität Paderborn. 
+
+**Awarded: Summa cum laude** 
