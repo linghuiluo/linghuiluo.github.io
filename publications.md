@@ -1,4 +1,7 @@
 ## Publications 
+### PhD Thesis
+**[Improving Real-World Applicability of Static Taint Analysis](Dissertation-Luo.pdf)**, 2021, Universität Paderborn. **Awarded: Summa cum laude** 
+
 ### Peer-reviewed Conference Papers
 - 2021 
   - **ESEC/FSE**<br>
