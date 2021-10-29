@@ -35,4 +35,4 @@
     - **EMSE (Journal-First Paper)**<br>
       **TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses**, Empirical Software Engineering (**EMSE**), **Journal-First Paper**, 2021<br>
       **Linghui Luo**, Felix Pauck, Goran Piskachev, Manuel Benz, Ivan Pashchenko, Martin Mory, Eric Bodden, Ben Hermann, Fabio Massacci<br>
-     ([Preprint](EMSE-TaintBench.pdf), [Artifact](https://taintbench.github.io), [DOI (to appear)](http://dx.doi.org/10.1007/s10664-021-10013-5))
+     ([Paper](https://rdcu.be/cAoKu), [Artifact](https://taintbench.github.io), [DOI](https://link.springer.com/article/10.1007%2Fs10664-021-10013-5))
