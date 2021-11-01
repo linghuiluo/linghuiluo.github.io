@@ -21,7 +21,7 @@ Over the course of my PhD, I assisted in the teaching of several courses. My res
 During my bachelor’s and master’s studies, I worked as a student tutor since the second year of my bachelors. My responsibilities include giving students tutorials in the exercise courses and evaluating homework.
 - **Introduction to Computability, Complexity and Formal Languages** (Einführung in Berechenbarkeit, Komplexität und Formale Sprachen), Bachelor Course in German, Paderborn University
   - Winter 2017
-  - Content: This course covers various topics in the theory of computation, languages, and automata: turning machines, halting problem, decidable and recursively enumerable languages, non-decidable problems, nonrecursively enumerable languages, classes P and NP, NP-completeness, Cook-Levin theorem, reduction, formal languages and regular languages, context-free grammar and languages, pushdown automaton.
+  - Content: This course covers various topics in the theory of computation, languages, and automata: Turing machines, halting problem, decidable and recursively enumerable languages, non-decidable problems, nonrecursively enumerable languages, classes P and NP, NP-completeness, Cook-Levin theorem, reduction, formal languages and regular languages, context-free grammar and languages, pushdown automaton.
 - **Data Structure and Algorithms** (Datenstrukturen und Algorithmen), Bachelor Course in German, Paderborn University
   - Sommer 2016, Sommer 2015, Sommer 2014, Sommer 2013, Sommer 2012
   - Content: This course covers design and analysis methods for efficient algorithms and data structures as well as basic examples: computational models, efficiency measures, invariants, sorting algorithms, data structures (list, tree, graph, hash tables), graph algorithms (DFS, BFS, shortest paths, minimal spanning trees), divide-and-conquer, greedy algorithms, dynamic programming.
@@ -34,8 +34,8 @@ During my bachelor’s and master’s studies, I worked as a student tutor since
 
 ### Student Supervision
 Supervised Thesis at Paderborn University
-- **Master Thesis (ongoing)**: Extending MagpieBridge by Supporting IDE Integration of SAST Tools. 2021.
-- **Master Thesis (ongoing)**: Extending MagpieBridge to Visualize Data-Flow Analysis Results. 2021.
+- **Master Thesis**: Extending MagpieBridge by Supporting IDE Integration of SAST Tools. 2021.
+- **Master Thesis**: Extending MagpieBridge to Visualize Data-Flow Analysis Results. 2021.
 - **Master Thesis**: Targeted Testing Input Generation for Android Applications. 2021.<br>
   [Project Repository](https://github.com/fynnh/COVA-results)
 - **Bachelor Thesis**: Jimple LSP Support – Erweiterbare IDE Unterstützung für Jimple. 2020.<br>
