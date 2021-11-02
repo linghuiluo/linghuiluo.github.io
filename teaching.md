@@ -1,6 +1,6 @@
 ## Teaching Experience 
 ### Teaching Assistant
-Over the course of my PhD, I assisted in the teaching of several courses. My responsibilities include organizing exercise courses & exams, giving students tutorials and sometimes lectures.
+Over the course of my PhD, I assisted in the teaching of several courses. My responsibilities included organizing exercise courses & exams, giving students tutorials and sometimes lectures.
 - **Secure Software Engineering**, Bachelor Course in English, Paderborn University
   - Sommer 2021 (Lead TA), Sommer 2020 (Lead TA), Sommer 2019 (Lead TA), Winter 2017
   - Content: This course covers the following core areas of cyber-attack-proof software design: threat modeling, secure design, secure programming, security validation, secure deployment and maintenance, common security vulnerabilities and exploits, common cryptographic algorithms and pitfalls, automatic vulnerability detection.
@@ -18,7 +18,7 @@ Over the course of my PhD, I assisted in the teaching of several courses. My res
     - Content: This course enables students to use a programming language (Python/Java) for software development, apply basic concepts of object-oriented programming (classes, objects, types) and implement algorithms.
 
 ### Student Tutor 
-During my bachelor’s and master’s studies, I worked as a student tutor since the second year of my bachelors. My responsibilities include giving students tutorials in the exercise courses and evaluating homework.
+During my bachelor’s and master’s studies, I worked as a student tutor since the second year of my bachelors. My responsibilities included giving students tutorials in the exercise courses and evaluating homework.
 - **Introduction to Computability, Complexity and Formal Languages** (Einführung in Berechenbarkeit, Komplexität und Formale Sprachen), Bachelor Course in German, Paderborn University
   - Winter 2017
   - Content: This course covers various topics in the theory of computation, languages, and automata: Turing machines, halting problem, decidable and recursively enumerable languages, non-decidable problems, nonrecursively enumerable languages, classes P and NP, NP-completeness, Cook-Levin theorem, reduction, formal languages and regular languages, context-free grammar and languages, pushdown automaton.
@@ -40,5 +40,5 @@ Supervised Thesis at Paderborn University
   [Project Repository](https://github.com/fynnh/COVA-results)
 - **Bachelor Thesis**: Jimple LSP Support – Erweiterbare IDE Unterstützung für Jimple. 2020.<br>
   [Project Repository](https://github.com/swissiety/JimpleLSP)
-- **Master Thesis** (Co-supervision with [Johannes Späth](https://johspaeth.github.io)): Sven Erik Vinkemeier. Path Cconditions to Enhance Comprehension of Cryptographic Misuses. 2019.<br>
+- **Master Thesis** (Co-supervision with [Johannes Späth](https://johspaeth.github.io)): Path Cconditions to Enhance Comprehension of Cryptographic Misuses. 2019.<br>
   [Project Repository](https://github.com/MagpieBridge/Masterarbeit-CogniCryptVSCode)
