@@ -39,6 +39,9 @@
      ([Paper](https://rdcu.be/cAoKu), [Artifact](https://taintbench.github.io), [DOI](https://link.springer.com/article/10.1007%2Fs10664-021-10013-5))
 
 ### Linghui Luo's PhD Thesis
-**[Improving Real-World Applicability of Static Taint Analysis](Dissertation-Luo.pdf)**, 2021, Universität Paderborn. 
+**[Improving Real-World Applicability of Static Taint Analysis](Dissertation-Luo.pdf)** ([DOI](https://doi.org/10.17619/UNIPB/1-1233)), 2021, Universität Paderborn.
 
 **Awarded: Summa cum laude** 
+
+
+
