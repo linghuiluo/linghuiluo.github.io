@@ -6,10 +6,10 @@ create usable tools at first."
 
 <img src="profile.jpeg" alt="drawing" width="300" style="float: left;" hspace="5"/> 
 
-Linghui Luo (罗灵慧) is a PhD candidate advised by [Prof. Eric Bodden](https://www.bodden.de/). She works as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University. Her research interests include program analysis with a security focus (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications), empirical software engineering and usable security & privacy. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
+Linghui Luo (罗灵慧) received her Ph.D degree from Paderborn University in 2021. She worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University from 2017 to 2021 and was advised by [Prof. Eric Bodden](https://www.bodden.de). Her research interests include program analysis with a security focus (mainly [Taint Analysis](taintanalysis.md) for Java and Android applications), empirical software engineering and usable security & privacy. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
 She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project.
 
-<p>📢 I successfully defended my PhD thesis on topic "Improving Real-World Applicability of Static Taint Analysis" on Oct. 27, 2021.</p> 
+<p>📢 I am currently on vacation till end of this year. I will work as an applied scientist at Amazon Web Services from January 2022 on. </p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
