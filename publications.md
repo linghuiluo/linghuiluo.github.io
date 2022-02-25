@@ -6,7 +6,7 @@
     **A General Approach to Modeling Java Framework Behaviors**, 23/08/2021 – 28/08/2021, Student Research Competition At The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2021, Athens, Greece. <br>
     **Awarded: Silver Medal Winner (Second Place)**.<br>
     **Linghui Luo**<br>
-     ([Paper](FSE-SRC21.pdf), [DOI](https://doi.org/10.1145/3468264.3473489), [5 Mins Video](https://t.co/tT40YwWC1N?amp=1), [10 Mins Video](https://youtu.be/u5R__D7o32U))
+     ([Paper](FSE-SRC21.pdf), [DOI](https://doi.org/10.1145/3468264.3473489), [5 Mins Video](https://t.co/tT40YwWC1N?amp=1), [10 Mins Video](https://youtu.be/u5R__D7o32U), Artifact (will be released with future research paper))
   - **ESEC/FSE**<br>
     **IDE Support for Cloud-Based Static Analyses**, 23/08/2021 – 28/08/2021, The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2021, Athens, Greece. <br>
     **Linghui Luo**, Martin Schäf, Daniel Sanchez, Eric Bodden<br>
