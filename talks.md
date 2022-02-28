@@ -3,7 +3,10 @@
 - **DRY and Use MagpieBridge for IDE Integration**, 15/06/2020, 9th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis (SOAP) at PLDI 2020. ([Video](https://youtu.be/6MLlOEsPW1k), [Slides](soap-talk.pdf)).
 - **One Is Not Enough: Integrating CongiCrypt into Multiple IDEs and Editors with MagpieBridge**, 07/2019, Panathon Workshop at ECOOP 2019.
 
-## Recorded Conference Talks
+## Conference Talks
+- **TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses**, Software Engineering 2022
+- **IDE Support for Cloud-Based Static Analyses**, Software Engineering 2022
+- **Improving real-world applicability of static taint analysis**, Nomination talk for Ernst Denert Software Engineering Award, Software Engineering 2022
 - **A General Approach to Modeling Java Framework Behaviors**,  ACM Student Research Competition at ESEC/FSE 2021. ([5 Mins Video](https://t.co/tT40YwWC1N?amp=1), [10 Mins Video](https://youtu.be/u5R__D7o32U))
 - **IDE Support for Cloud-Based Static Analyses**, ESEC/FSE 2021. ([Video](https://youtu.be/D3cBajyQPJw))
 - **A Qualitative Analysis of Android Taint-Analysis Results**, ASE 2019. ([Video](https://youtu.be/dD-VliMsQvw))
