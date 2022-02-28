@@ -28,6 +28,7 @@ framework for integrating static analyses into IDEs and Editors. A research pape
   -  I worked as a student tutor since the second year of my bachelors. My responsibilities include giving students tutorials in the exercise courses and evaluating homework. See details in my [teaching experience](https://linghuiluo.github.io/teaching). 
   
 ## Awards and Scholarships
+- [Ernst Denert Software Engineering Award](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger), 2021
 - Silver Medal (Second Place) at the ACM Student Research Competition, ESEC/FSE conference, 2021
 - NERD.NRW Scholarship Recipient, 2017
 - DAAD (German Academic Exchange Service) ISAP Scholarship Recipient, 2015
