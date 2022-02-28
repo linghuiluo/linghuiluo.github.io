@@ -9,7 +9,7 @@ create usable tools at first."
 Linghui Luo (罗灵慧) is an Applied Scientist at AWS. Prior to that, she worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University from 2017 to 2021 and was advised by [Prof. Eric Bodden](https://www.bodden.de). She received her PhD degree from Paderborn University in 2021. Her research interests include program analysis with a security focus, empirical software engineering and usable security & privacy. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
 She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project.
 
-<p>📢 I'm going to give two talks at https://se-2022.gi.de</p> 
+<p>📢 I'm very honored to receive the Ernst Denert Software Engineering Award.</p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
