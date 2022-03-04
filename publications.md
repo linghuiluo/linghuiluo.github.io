@@ -42,6 +42,7 @@
 **[Improving Real-World Applicability of Static Taint Analysis](Dissertation-Luo.pdf)** ([DOI](https://doi.org/10.17619/UNIPB/1-1233)), 2021, Universität Paderborn.
 
 **Awarded: Summa cum laude** 
+
 **Awarded: Ernst Denert Software Engineering Award**
 
 
