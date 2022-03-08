@@ -29,6 +29,6 @@ framework for integrating static analyses into IDEs and Editors. A research pape
   
 ## Awards and Scholarships
 - [Ernst Denert Software Engineering Award](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger), 2021
-- Silver Medal (Second Place) at the ACM Student Research Competition, ESEC/FSE conference, 2021
+- [Silver Medal (Second Place) at the ACM Student Research Competition](https://src.acm.org/winners/2022), ESEC/FSE conference, 2021
 - NERD.NRW Scholarship Recipient, 2017
 - DAAD (German Academic Exchange Service) ISAP Scholarship Recipient, 2015
