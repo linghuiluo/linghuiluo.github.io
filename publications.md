@@ -33,8 +33,8 @@
 
 ### Peer-reviewed Journal Papers
   - 2021  
-    - **EMSE (Journal-First Paper)**<br>
-      **TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses**, Empirical Software Engineering (**EMSE**), **Journal-First Paper**, 2021<br>
+    - **EMSE (Journal-First Paper) & ICSE 2022 (Pittsburgh, USA)**<br>
+      **TaintBench: Automatic Real-World Malware Benchmarking of Android Taint Analyses**, Empirical Software Engineering (**EMSE**), 2021; International Conference on Software Engineering (**ICSE**), 2022; **Journal-First Paper** <br> 
       **Linghui Luo**, Felix Pauck, Goran Piskachev, Manuel Benz, Ivan Pashchenko, Martin Mory, Eric Bodden, Ben Hermann, Fabio Massacci<br>
      ([Paper](https://rdcu.be/cAoKu), [Artifact](https://doi.org/10.5281/zenodo.5734328), [Website](https://taintbench.github.io), [DOI](https://link.springer.com/article/10.1007%2Fs10664-021-10013-5))
 
