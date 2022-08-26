@@ -48,16 +48,8 @@ Dr. Luo believes Open Source is the future and contributes to the open source co
 InferIDE <img src="https://fbinfer.com/img/logo.png" alt="drawing" width="50" hspace="5"> 
 </a><br>
 
-## Research Interests
-- Security-related Program Analysis
-- Empirical Software Engineering
-- Usable Security & Privacy
-- Concolic & Symbolic Execution
-- Automatic Test Generation 
 
 ## Contact
-You can send me an email in English, German or Chinese, but I prefer English for any inquiries regarding research. 
-
 &#x2709; linghui[at]outlook.de
 
 ## Life Outside of Work
