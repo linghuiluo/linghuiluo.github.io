@@ -6,10 +6,13 @@ create usable tools at first."
 
 <img src="profile.jpeg" alt="drawing" width="300" style="float: left;" hspace="5"/> 
 
-Linghui Luo is an Applied Scientist at Amazon Web Services. Prior to that, she worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University from 2017 to 2021. She received her PhD degree from Paderborn University in 2021 and was advised by [Prof. Eric Bodden](https://www.bodden.de). Her research interests include program analysis with a security focus, empirical software engineering and usable security & privacy. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
-She believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and one of the main contributers of the [FutureSoot](http://soot-oss.github.io/soot/future-soot/) project.
+Dr. Linghui Luo is an Applied Scientist at Amazon Web Services. Her research interests include program analysis with a security focus, empirical software engineering and usable security. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
 
-<p>📢 I'm very honored to receive the Ernst Denert Software Engineering Award.</p> 
+Prior to Amazon, Dr. Luo worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University from 2017 to 2021. She received her PhD degree from Paderborn University in 2021 and was advised by [Prof. Eric Bodden](https://www.bodden.de). Her PhD resarch was awarded both nationally and internationally: She won the [silver medal in the ACM Student Research Competition at the ESEC/FSE Conference 2021](https://src.acm.org/winners/2022) and is the winner of the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger).   
+
+ORCID: https://orcid.org/0000-0003-2054-0373
+
+<p>📢 Our paper "Input Splitting for Cloud-Based Static Application Security Testing Platforms" was accepted at ESEC/FSE 2022 Industry Track</p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
@@ -26,6 +29,8 @@ She believes Open Source is the future and contributes to the open source commun
 <img src ="https://dblp.org/img/logo.320x120.png" alt="drawing" width="120" hspace="5"></a>
 
 ## Contribution to Open Source
+Dr. Luo believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [FutureSoot](http://soot-oss.github.io/soot/future-soot/).
+
 <a href="https://github.com/MagpieBridge/MagpieBridge">
 <img src="https://github.com/MagpieBridge/MagpieBridge/blob/develop/doc/logshort.png?raw=true" alt="drawing" width="120" hspace="5">
 </a>
