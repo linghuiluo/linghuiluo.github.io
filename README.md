@@ -10,8 +10,6 @@ Dr. Linghui Luo is an Applied Scientist at Amazon Web Services. Her research int
 
 Prior to Amazon, Dr. Luo worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University from 2017 to 2021. She received her PhD degree from Paderborn University in 2021 and was advised by [Prof. Eric Bodden](https://www.bodden.de). Her PhD resarch was awarded both nationally and internationally: She won the [silver medal in the ACM Student Research Competition at the ESEC/FSE Conference 2021](https://src.acm.org/winners/2022) and is the winner of the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger).   
 
-ORCID: https://orcid.org/0000-0003-2054-0373
-
 <p>📢 Our paper "Input Splitting for Cloud-Based Static Application Security Testing Platforms" was accepted at ESEC/FSE 2022 Industry Track</p> 
 
 <!-- display social media buttons in your README -->
@@ -27,6 +25,9 @@ ORCID: https://orcid.org/0000-0003-2054-0373
 <!-- dblp -->
 <a href="https://dblp.org/pid/244/4638.html">
 <img src ="https://dblp.org/img/logo.320x120.png" alt="drawing" width="120" hspace="5"></a>
+<!-- orcid -->
+<a href="https://orcid.org/0000-0003-2054-0373">
+<img src="https://orcid.org/assets/vectors/orcid.logo.svg" width="110" hspace="5"></a>
 
 ## Contribution to Open Source
 Dr. Luo believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [FutureSoot](http://soot-oss.github.io/soot/future-soot/).
