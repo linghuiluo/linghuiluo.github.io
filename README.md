@@ -4,7 +4,7 @@
 convention in secure software development. However, we need to
 create usable tools at first."                                                               
 
-<img src="profile.jpeg" alt="drawing" width="300" style="float: left;" hspace="5"/> 
+<img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/> 
 
 Dr. Linghui Luo is an Applied Scientist at Amazon Web Services. Her research interests include program analysis with a security focus, empirical software engineering and usable security. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
 
