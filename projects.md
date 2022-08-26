@@ -23,7 +23,7 @@
 </a>
 </center>
 
-- [FutureSoot](http://soot-oss.github.io/soot/future-soot) (01/2018 - Present): Future-proofing the [Soot](https://github.com/soot-oss/soot) Framework for Program Analysis and Transformation. The goal of this [DFG project](http://gepris.dfg.de/gepris/projekt/391001466) is to develop a brand-new version of Soot. This new version will enable people to use Soot in a much more flexible manner. I am a main contributor to this project. My work on this project inlcudes management, design and development of the new Soot framework.
+- [FutureSoot](http://soot-oss.github.io/soot/future-soot) (01/2018 - 2021): Future-proofing the [Soot](https://github.com/soot-oss/soot) Framework for Program Analysis and Transformation. The goal of this [DFG project](http://gepris.dfg.de/gepris/projekt/391001466) is to develop a brand-new version of Soot. This new version will enable people to use Soot in a much more flexible manner. I am a main contributor to this project. My work on this project inlcudes management, design and development of the new Soot framework.
   
 - [IntelliScan](https://nerd.nrw/forschungstandems/intelliscan/) (10/2017 - 09/2021): This is a subproject of the NRW Graduate School "Human-Centered Systems Security - North Rhine Westphalian Experts in Research on Digitalization ([NERD](https://nerd.nrw/))". The goal of this project is to build intelligent developer support for static analysis tools. I am funded by this project and do desearch in improving the usability of static analysis tools.
 
