@@ -4,8 +4,8 @@
 - 2022
   - **ESEC/FSE**<br>
     **Input Splitting for Cloud-Based Static Application Security Testing Platforms**, 14/11/2022 - 18/11/2022, The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2022, Industry Paper, Singapore. <br> 
-    Maria Christakis, Thomas Cottenier, Antonio Filieri, Linghui Luo, Muhammad Numair Mansur, Lee Pike, Nicolás Rosner, Martin Schäf, Aritra Sengupta, Willem Visser 
-    ([Paper (to appear)]())
+    Maria Christakis, Thomas Cottenier, Antonio Filieri, Linghui Luo, Muhammad Numair Mansur, Lee Pike, Nicolás Rosner, Martin Schäf, Aritra Sengupta, Willem Visser<br> 
+    ([Paper](https://www.amazon.science/publications/input-splitting-for-cloud-based-static-application-security-testing-platforms))
 - 2021 
   - **ESEC/FSE**<br>
     **A General Approach to Modeling Java Framework Behaviors**, 23/08/2021 – 28/08/2021, Student Research Competition At The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2021, Athens, Greece. <br>
