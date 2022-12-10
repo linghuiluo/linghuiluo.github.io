@@ -6,11 +6,12 @@ create usable tools at first."
 
 <img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/> 
 
-Dr. Linghui Luo is an Applied Scientist at Amazon Web Services. Her research interests include program analysis with a security focus, empirical software engineering and usable security. She is mostly interested in designing and tuning static analysis tools based on the empirical data from the real world and needs of software developers. 
+Dr. Linghui Luo is an applied scientist at Amazon Web Services, specializing in program analysis with a focus on security, as well as empirical software engineering and usable security. She has a proven track record of designing and implementing static analysis tools based on real-world data and the needs of software developers. Her research has been widely recognized in the Software Engineering field, including winning the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger) and the silver medal in the [ACM Student Research Competition at the ESEC/FSE Conference 2021](https://src.acm.org/winners/2022).
 
-Prior to Amazon, Dr. Luo worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/software-engineering) at Paderborn University from 2017 to 2021. She received her PhD degree from Paderborn University in 2021 and was advised by [Prof. Eric Bodden](https://www.bodden.de). Her PhD resarch was awarded both nationally and internationally: She won the [silver medal in the ACM Student Research Competition at the ESEC/FSE Conference 2021](https://src.acm.org/winners/2022) and is the winner of [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger).   
+Before joining Amazon, Dr. Luo was a research associate in the Secure Software Engineering Group at Paderborn University. She received her PhD from Paderborn University in 2021, with distinction, under the advisement of [Prof. Eric Bodden](https://www.bodden.de). She also holds both a master's and bachelor's degree from Paderborn University.
 
-<p>📢 Our paper "Input Splitting for Cloud-Based Static Application Security Testing Platforms" was accepted at ESEC/FSE 2022 Industry Track</p> 
+
+<p>📢 Our paper "Shifting Left for Early Detection of Machine-Learning Bugs" was accepted at FM 2023</p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
@@ -18,7 +19,7 @@ Prior to Amazon, Dr. Luo worked as a research associate in the [Secure Software 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="drawing" width="50" hspace="5"></a>
 <!-- Twitter-->
 <a href="https://twitter.com/LinghuiLuo">
-<img src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/600px-Twitter_bird_logo_2012.svg.png" alt="drawing" width="50" hspace="5"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" alt="drawing" width="50" hspace="5"></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/linghui-luo">
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="50" hspace="5"></a>
