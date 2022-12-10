@@ -2,6 +2,10 @@
 
 ### Peer-reviewed Conference Papers
 - 2022
+  - **FM 2023**<br>
+    **Shifting Left for Early Detection of Machine-Learning Bugs**, 07/03/2023 – 09/03/2023, 25th international symposium on formal methods, Industry Day Track,Lübeck. <br>
+    Ben Liblit, Linghui Luo, Alejandro Molina, Rajdeep Mukherjee, Zachary Patterson, Goran Piskachev, Martin Schäf, Omer Tripp, Willem Visser<br>
+    ([Paper (to appear)]())
   - **ESEC/FSE**<br>
     **Input Splitting for Cloud-Based Static Application Security Testing Platforms**, 14/11/2022 - 18/11/2022, The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2022, Industry Paper, Singapore. <br> 
     Maria Christakis, Thomas Cottenier, Antonio Filieri, Linghui Luo, Muhammad Numair Mansur, Lee Pike, Nicolás Rosner, Martin Schäf, Aritra Sengupta, Willem Visser<br> 
