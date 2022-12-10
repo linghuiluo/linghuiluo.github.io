@@ -10,6 +10,7 @@ Dr. Linghui Luo is an applied scientist at Amazon Web Services, specializing in 
 
 Before joining Amazon, Dr. Luo was a research associate in the Secure Software Engineering Group at Paderborn University. She received her PhD from Paderborn University in 2021, with distinction, under the advisement of [Prof. Eric Bodden](https://www.bodden.de). She also holds both a master's and bachelor's degree from Paderborn University.
 
+[German Bio/Lebenslauf auf Deutsch](lebenslauf.md)
 
 <p>📢 Our paper "Shifting Left for Early Detection of Machine-Learning Bugs" was accepted at FM 2023</p> 
 
