@@ -12,7 +12,9 @@ Before joining Amazon, Dr. Luo was a research associate in the Secure Software E
 
 [German Bio/Lebenslauf auf Deutsch](lebenslauf.md)
 
-<p>📢 Our paper "Shifting Left for Early Detection of Machine-Learning Bugs" was accepted at FM 2023</p> 
+<p>📢 My dissertation won the UPB Doctoral Dissertation Award</p> 
+<p>📢 Our paper "Long-term Static Analysis Rule Quality Monitoring Using True Negatives" was accepted at ICSE 2023</p> 
+<p>📢 Our paper "Model Generation For Java Frameworks" was accepted at ICST 2023</p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
