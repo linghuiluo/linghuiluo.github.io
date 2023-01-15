@@ -1,5 +1,5 @@
 ## Projects 
-- [TaintBench](https://taintbench.github.io) (2018 - Present): TaintBench is a publicly available project that enables automatic evaluation of Android taint analysis tools with real-world benchmarks. With TaintBench we are [continuously benchmarking](https://taintbench.github.io/ci) Android taint analysis tools and reproducing benchmarking results. It provides:
+- [TaintBench](https://taintbench.github.io) (2018 - 2022): TaintBench is a publicly available project that enables automatic evaluation of Android taint analysis tools with real-world benchmarks. With TaintBench we are [continuously benchmarking](https://taintbench.github.io/ci) Android taint analysis tools and reproducing benchmarking results. It provides:
     -  a real-world malware benchmark suite with a ground-truth documentation that is machine-readable and comprehensive. 
     -  a set of tools that are designed to support benchmark suite construction, automatic evaluation of Android taint analysis tools and manual inspection of analysis results. 
 
@@ -16,7 +16,7 @@
 </a>
 </center>
 
-- [COVA](https://github.com/secure-software-engineering/COVA) (2018 - Present): COVA is a static analysis tool that analyzes path conditions in the program based on user-defined APIs. It combines data-flow analysis with symbolic execution to compute path constraints, which can be used to refine static-analysis results. It supports both Android and Java applications. I am the creator and maintainer of this open-source project.  
+- [COVA](https://github.com/secure-software-engineering/COVA) (2018 - 2022): COVA is a static analysis tool that analyzes path conditions in the program based on user-defined APIs. It combines data-flow analysis with symbolic execution to compute path constraints, which can be used to refine static-analysis results. It supports both Android and Java applications. I am the creator and maintainer of this open-source project.  
 <center>
 <a href="https://github.com/secure-software-engineering/COVA">
 <img src="https://github.com/secure-software-engineering/COVA/blob/master/cova-logo.PNG?raw=true" alt="drawing" width="200" hspace="5">
