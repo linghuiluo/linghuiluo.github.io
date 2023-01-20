@@ -1,4 +1,5 @@
 ## Academic Services
+- **Co-chair**, Artifact Evaluation, the International Symposium on Software Testing and Analysis (ISSTA), 2024
 - **Reviewer**, the International Symposium on Software Testing and Analysis (ISSTA), 2023
 - **Reviewer**, the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023.
 - **Reviewer**, Demonstrations Track of the International Conference on Software Engineering (ICSE), 2023. 
