@@ -5,11 +5,11 @@
   - **ICSE 2023**<br>
     **Long-term Static Analysis Rule Quality Monitoring Using True Negatives**, 14/05/2023 - 20/05/2023,  45th International Conference on Software Engineering, Software Engineering in Practice (SEIP) Track, Melbourne, Australia.<br>
     Linghui Luo, Rajdeep Mukherjee, Omer Tripp, Martin Schäf, Qiang Zhou, Daniel Sanchez<br>
-    ([Paper (to appear)]())
+    ([Paper](ICSE2023.pdf))
   - **ICST 2023**<br>
     **Model Generation For Java Frameworks**, 16/04/2023 - 20/04/2023, The 16th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2023, Dublin, Ireland. <br>
     Linghui Luo, Goran Piskachev, Ranjith Krishnamurthy, Julian Dolby, Eric Bodden, Martin Schäf<br>
-    ([Paper (to appear)]())
+    ([Paper](ICST2023.pdf), [Artifact](https://zenodo.org/record/7553965#.Y9o-sezMJnk))
   - **FM 2023**<br>
     **Shifting Left for Early Detection of Machine-Learning Bugs**, 07/03/2023 – 09/03/2023, 25th international symposium on formal methods, Industry Day Track, Lübeck. <br>
     Ben Liblit, Linghui Luo, Alejandro Molina, Rajdeep Mukherjee, Zachary Patterson, Goran Piskachev, Martin Schäf, Omer Tripp, Willem Visser<br>
