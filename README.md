@@ -34,7 +34,7 @@ Before joining Amazon, Dr. Luo was a research associate in the Secure Software E
 <img src="https://orcid.org/assets/vectors/orcid.logo.svg" width="110" hspace="5"></a>
 
 ## Contribution to Open Source
-Dr. Luo believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [FutureSoot](http://soot-oss.github.io/soot/future-soot/).
+Dr. Luo believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [SootUp](https://github.com/soot-oss/SootUp).
 
 <a href="https://github.com/MagpieBridge/MagpieBridge">
 <img src="https://github.com/MagpieBridge/MagpieBridge/blob/develop/doc/logshort.png?raw=true" alt="drawing" width="120" hspace="5">
