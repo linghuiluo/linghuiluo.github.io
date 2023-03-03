@@ -58,7 +58,7 @@ InferIDE <img src="https://fbinfer.com/img/logo.png" alt="drawing" width="50" hs
 
 ## Life Outside of Work
 Together with her husband Linghui keeps three beloved pets: a dog, a cat and a black cat.
-She loves to spend her time with her pets and do sports such as bouldering and swimming (before COVID-19). 
+She loves to spend her time with her pets and do sports such as bouldering. 
 She also enjoys music and plays the cello. 
 
 
