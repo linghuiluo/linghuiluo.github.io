@@ -7,11 +7,11 @@ In case of job or collaboration opportunities, my complete CV in PDF can be requ
 - **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Work Experience
-- **Applied Scientist**, Jan. 2022 - Present, Amazon Web Services, Berlin, Germany.   
+- **Applied Scientist II**, Jan. 2022 - Present, Amazon Web Services, Berlin, Germany.    
 - **Research Associate**, Mid-Jun. 2017 – Dec. 2021, Research group Software Engineering, Paderborn University, Paderborn, Germany.
    - Research in improving real-world applicability of static taint analysis for Java/Android applications, which is also the focus of my PhD thesis. I am also a maintainer of the Java optimization framework---Soot and led the development of a brand new version of Soot over two years. In addition to research and engineering, I also assisted in teaching several courses held by our research group in area of both security in software engineering and program analysis.
    - Advised by [Prof. Eric Bodden](https://www.bodden.de/)
-- **Applied Scientist Intern**, Sep. 2020 - Jan. 2021, Research Internship in team CodeGuru at Amazon Web Services, Germany.  
+- **Applied Scientist I (Intern)**, Sep. 2020 - Jan. 2021, Internship in team CodeGuru at Amazon Web Services, Remote, Germany.  
   - The internship was planned to happen in New York. Due to COVID-19, I worked remotely with the team AWS CodeGuru in the US from Germany. During the internship, I worked on exploring the possibility of supporting IDE integration for cloud-based Static Application Security Testing (SAST) tools. I built a research prototype and
 conducted user studies with software developers at AWS. A research paper from this work was published at the ESEC/FSE conference 2021.
   - Advised by [Dr. Martin Schäf](https://www.martinschaef.de/) 
