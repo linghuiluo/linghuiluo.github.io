@@ -62,7 +62,9 @@
 
 **Awarded: Ernst Denert Software Engineering Award**
 
-**Awarded:  UPB Doctoral Dissertation Award**
+**Awarded: UPB Doctoral Dissertation Award**
+
+**Awarded: ZONTA Science Award 2023**
 
 
 
