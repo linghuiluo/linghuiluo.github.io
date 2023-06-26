@@ -28,6 +28,7 @@ framework for integrating static analyses into IDEs and Editors. A research pape
   -  I worked as a student tutor since the second year of my bachelors. My responsibilities include giving students tutorials in the exercise courses and evaluating homework. See details in my [teaching experience](https://linghuiluo.github.io/teaching). 
   
 ## Awards and Scholarships
+- [ZONTA Science Award](https://sfb901.uni-paderborn.de/newsold/details/second-sfb-901-seminar-zonta-science-award-2023), 2023
 - [UPB Doctoral Dissertation Award](https://www.uni-paderborn.de/nachricht/99845), 2022
 - [Ernst Denert Software Engineering Award](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger), 2021
 - [Silver Medal (Second Place) at the ACM Student Research Competition](https://src.acm.org/winners/2022), ESEC/FSE conference, 2021
