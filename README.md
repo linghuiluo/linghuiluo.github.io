@@ -11,7 +11,7 @@ Dr. Linghui Luo is an [applied scientist](https://www.amazon.science/author/ling
 Before joining Amazon, Dr. Luo was a research associate in the Secure Software Engineering Group at Paderborn University. She received her PhD from Paderborn University in 2021, with distinction, under the advisement of [Prof. Eric Bodden](https://www.bodden.de). She also holds both a master's and bachelor's degree from Paderborn University.
 
 [German Bio/Lebenslauf auf Deutsch](lebenslauf.md)
-
+<p>📢 I received ZONTA Science Award 2023 for my research</p> 
 <p>📢 My dissertation won the UPB Doctoral Dissertation Award</p> 
 <p>📢 Our paper "Long-term Static Analysis Rule Quality Monitoring Using True Negatives" was accepted at ICSE 2023</p> 
 <p>📢 Our paper "Model Generation For Java Frameworks" was accepted at ICST 2023</p> 
