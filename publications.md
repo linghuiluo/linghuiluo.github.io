@@ -1,5 +1,10 @@
 ## Publications 
-
+### Science Blogs
+- 2023
+  - **Amazon Science**<br>
+    **Bringing code analysis tools to Jupyter notebooks**, 13/07/2023, Cloud and Systems.<br>
+    Linghui Luo, Shubha Gargava
+    ([Article](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)) 
 ### Peer-reviewed Conference Papers
 - 2022
   - **ICSE 2023**<br>
