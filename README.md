@@ -22,7 +22,7 @@ Before joining Amazon, Dr. Luo was a research associate in the Secure Software E
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="drawing" width="50" hspace="5"></a>
 <!-- Twitter-->
 <a href="https://twitter.com/LinghuiLuo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" alt="drawing" width="50" hspace="5"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="drawing" width="50" hspace="5"></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/linghui-luo">
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="50" hspace="5"></a>
@@ -32,6 +32,9 @@ Before joining Amazon, Dr. Luo was a research associate in the Secure Software E
 <!-- orcid -->
 <a href="https://orcid.org/0000-0003-2054-0373">
 <img src="https://orcid.org/assets/vectors/orcid.logo.svg" width="110" hspace="5"></a>
+<!-- amazon science -->
+<a href="https://www.amazon.science/author/linghui-luo">
+<img src="https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg"  width="180" hspace="5"></a>
 
 ## Contribution to Open Source
 Dr. Luo believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [SootUp](https://github.com/soot-oss/SootUp).
