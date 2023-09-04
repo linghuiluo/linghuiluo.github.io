@@ -8,7 +8,7 @@
     
 ### Peer-reviewed Conference Papers
 - 2023
-  - **ESE/FSE 2023**<br>
+  - **ESEC/FSE 2023**<br>
     **Compositional Taint Analysis for Enforcing Security and Privacy Policies at Scale**, 03/12/2023 - 09/12/2023, The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2023, Industry Paper, Singapore. <br>
      Subarno Banerjee, Siwei Cui, Michael Emmi, Antonio Filieri, Liana Hadarean, Peixuan Li, Linghui Luo, Goran Piskachev, Nicolás Rosner, Aritra Sengupta, Omer Tripp, Sean Tout, and Jingbo Wang<br>
      ([Paper (to appear)]())
