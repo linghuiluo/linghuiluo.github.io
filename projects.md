@@ -10,7 +10,7 @@ Below are some projects I started during my PhD:
 </a>
 </center>
 
-- [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) (2019 - Present): MagpieBridge is an open-source framework for integrating static analyses into IDEs and editors with the Language Server Protocol (LSP). MagpieBridge is not limited to LSP, it also allows displaying web pages inside an IDE, which enables a new level of supporting visualization and customizable UI for users to interact with. MagpieBridge is a bridge between program analyses and developer tools. I am the creator and maintainer of this open-source project.   
+- [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) (2019 - 2023): MagpieBridge is an open-source framework for integrating static analyses into IDEs and editors with the Language Server Protocol (LSP). MagpieBridge is not limited to LSP, it also allows displaying web pages inside an IDE, which enables a new level of supporting visualization and customizable UI for users to interact with. MagpieBridge is a bridge between program analyses and developer tools. I am the creator and maintainer of this open-source project.   
 <center>   
 <a href="https://github.com/MagpieBridge/MagpieBridge">
 <img src="https://github.com/MagpieBridge/MagpieBridge/blob/develop/doc/logshort.png?raw=true" alt="drawing" width="200" hspace="5">
