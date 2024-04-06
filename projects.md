@@ -1,5 +1,5 @@
 ## Projects 
-Below are some projects I started during my PhD:
+Below are some open source projects I started during my PhD:
 - [TaintBench](https://taintbench.github.io) (2018 - 2022): TaintBench is a publicly available project that enables automatic evaluation of Android taint analysis tools with real-world benchmarks. With TaintBench we are [continuously benchmarking](https://taintbench.github.io/ci) Android taint analysis tools and reproducing benchmarking results. It provides:
     -  a real-world malware benchmark suite with a ground-truth documentation that is machine-readable and comprehensive. 
     -  a set of tools that are designed to support benchmark suite construction, automatic evaluation of Android taint analysis tools and manual inspection of analysis results. 
