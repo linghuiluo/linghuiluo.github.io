@@ -1,14 +1,18 @@
-## Biography 
+## Biography of Dr. Linghui Luo                    
+<img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
 
->"The usage of Static Application Security Testing (SAST) Tools should become an industrial
-convention in secure software development. However, we need to
-create usable tools at first."                                                               
+I am an [applied scientist](https://www.amazon.science/author/linghui-luo) at Amazon Web Services, working for Amazon Q and CodeGuru. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. My research spans various areas of software engineering and security, with a focus on advancing the effectiveness, scalability and integration of program analysis techniques. Particularly, I am interested in following research directions: 
+- **Improving Security Practices**: A core focus of my work developed innovative approaches to enforce security coding practices. With the popularity of applying Generative AI for writting code, these days I am also working on improving the security and quality of generated code. 
+- **Scalability and Performance**: I explore methods to enhance scalability of static analyses, with balancing to soundness.  
+- **Usability and Integration**: Recognizing the importance of seamless tool integration into developers’s workflow, I am dedicated to find ways that improve the usability and integration of static analyses.  
+- **Advancement in Static Analysis Frameworks**: I’m committed to advancing the state-of-the-art in static analysis frameworks to meet evolving industry demands. 
+- **Benchmarking and Evaluation**: I am passionate about establishing rigorous benchmarks and evaluation methods to assess effectiveness of static analysis tools.    
 
-<img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/> 
+My contributions to the field have been recognized with prestigious awards, notably the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger) -- an award for an outstanding research contribution in the field of methods, tools, and procedures for software development by the Software Engineering Department of the German Informatics Society (GI) in cooperation with the Austrian Computer Society (OCG) and the Swiss Informatics Society (SI).
 
-Dr. Linghui Luo is an [applied scientist](https://www.amazon.science/author/linghui-luo) at Amazon Web Services, specializing in program analysis with a focus on security, as well as empirical software engineering and usable security. She has a proven track record of designing and implementing static analysis tools based on real-world data and the needs of software developers. Her research has been widely recognized in the Software Engineering field, including winning the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger) and the silver medal in the [ACM Student Research Competition at the ESEC/FSE Conference 2021](https://src.acm.org/winners/2022).
+Apart from my research work, I also actively [serve as a program committee member](services.md) at top conferences such as ESEC/FSE, ICSE, and ISSTA in the field.
 
-Before joining Amazon, Dr. Luo was a research associate in the Secure Software Engineering Group at Paderborn University. She received her PhD from Paderborn University in 2021, with distinction, under the advisement of [Prof. Eric Bodden](https://www.bodden.de). She also holds both a master's and bachelor's degree from Paderborn University.
+Before joining Amazon, I was a research associate in the Secure Software Engineering Group at Paderborn University in Germany. I received my PhD from Paderborn University in 2021, with distinction, under the advisement of [Prof. Eric Bodden](https://www.bodden.de). I also hold both a master's and bachelor's degree from Paderborn University.
 
 [German Bio/Lebenslauf auf Deutsch](lebenslauf.md)
 <p>📢 I received ZONTA Science Award 2023 for my research</p> 
@@ -19,7 +23,7 @@ Before joining Amazon, Dr. Luo was a research associate in the Secure Software E
 <!-- display social media buttons in your README -->
 <!-- Github -->
 <a href="https://github.com/linghuiluo">
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="drawing" width="50" hspace="5"></a>
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="50" hspace="5"></a>
 <!-- Twitter-->
 <a href="https://twitter.com/LinghuiLuo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="drawing" width="50" hspace="5"></a>
@@ -37,31 +41,14 @@ Before joining Amazon, Dr. Luo was a research associate in the Secure Software E
 <img src="https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg"  width="180" hspace="5"></a>
 
 ## Contribution to Open Source
-Dr. Luo believes Open Source is the future and contributes to the open source community. She is the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [SootUp](https://github.com/soot-oss/SootUp).
-
-<a href="https://github.com/MagpieBridge/MagpieBridge">
-<img src="https://github.com/MagpieBridge/MagpieBridge/blob/develop/doc/logshort.png?raw=true" alt="drawing" width="120" hspace="5">
-</a>
-<a href="https://github.com/secure-software-engineering/COVA">
-<img src="https://github.com/secure-software-engineering/COVA/blob/master/cova-logo.PNG?raw=true" alt="drawing" width="110" hspace="5">
-</a>
-<a href="https://github.com/Sable/soot">
-<img src="https://soot-oss.github.io/soot/logo/soot-logo.png" alt="drawing" width="100" hspace="5">
-</a>
-<a href="https://github.com/wala/WALA">
-<img src="https://camo.githubusercontent.com/f93ac6c787736f5dd26e31ba2b3f4654bf1b7475c52d2e305408633207ce79d9/687474703a2f2f77616c612e736f75726365666f7267652e6e65742f77696b692f696d616765732f392f39342f57414c412d62616e6e65722e706e67" alt="drawing" width="150" hspace="10">
-</a><br>
-<a href="https://marketplace.visualstudio.com/items?itemName=LinghuiLuo.inferide">
-InferIDE <img src="https://fbinfer.com/img/logo.png" alt="drawing" width="50" hspace="5"> 
-</a><br>
-
+I am the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [SootUp](https://github.com/soot-oss/SootUp).
 
 ## Contact
 &#x2709; linghui[at]outlook.de
 
 ## Life Outside of Work
-Together with her husband Linghui keeps three beloved pets: a dog, a cat and a black cat.
-She loves to spend her time with her pets and do sports such as bouldering. 
-She also enjoys music and plays the cello. 
+Together with my husband, I keep three beloved pets: a dog, a cat and a black cat.
+I love to spend my time with my pets and do sports such as hiking and bouldering. 
+I also enjoy music and play the cello. 
 
 
