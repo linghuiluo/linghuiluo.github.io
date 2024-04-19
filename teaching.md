@@ -1,6 +1,6 @@
 ## Teaching Experience 
 ### Teaching Assistant
-Over the course of my PhD, I assisted in the teaching of several courses. My responsibilities included organizing exercise courses & exams, giving students tutorials and sometimes lectures.
+Over the course of my PhD, I assisted in the teaching of several courses. My responsibilities included organizing exercise courses & exams, creating exercises and exams, giving students tutorials and sometimes lectures.
 - **Secure Software Engineering**, Bachelor Course in English, Paderborn University
   - Sommer 2021 (Lead Teaching Assistant), Sommer 2020 (Lead Teaching Assistant), Sommer 2019 (Lead Teaching Assistant), Winter 2017
   - Content: This course covers the following core areas of cyber-attack-proof software design: threat modeling, secure design, secure programming, security validation, secure deployment and maintenance, common security vulnerabilities and exploits, common cryptographic algorithms and pitfalls, automatic vulnerability detection.
