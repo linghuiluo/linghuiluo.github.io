@@ -2,7 +2,7 @@
 ### Teaching Assistant
 Over the course of my PhD, I assisted in the teaching of several courses. My responsibilities included organizing exercise courses & exams, giving students tutorials and sometimes lectures.
 - **Secure Software Engineering**, Bachelor Course in English, Paderborn University
-  - Sommer 2021 (Lead TA), Sommer 2020 (Lead TA), Sommer 2019 (Lead TA), Winter 2017
+  - Sommer 2021 (Lead Teaching Assistant), Sommer 2020 (Lead Teaching Assistant), Sommer 2019 (Lead Teaching Assistant), Winter 2017
   - Content: This course covers the following core areas of cyber-attack-proof software design: threat modeling, secure design, secure programming, security validation, secure deployment and maintenance, common security vulnerabilities and exploits, common cryptographic algorithms and pitfalls, automatic vulnerability detection.
 - **Software Engineering Training** (Softwaretechnikpraktikum), Bachelor Course in German, Paderborn University
   - Winter 2019
@@ -11,7 +11,7 @@ Over the course of my PhD, I assisted in the teaching of several courses. My res
   - Sommer 2018
   - Content: This course covers various topics in static code analysis: type systems, finite lattices, fixed points, intra- and inter-procedural code analysis, call graph construction algorithms, pointer analysis, data-flow analysis, analysis frameworks (IFDS, IDE, VASCO).
 - **Seminar Secure Systems Engineering**, Master Course in English, Paderborn University
-    - Winter 2017 (Lead TA)
+    - Winter 2017 (Lead Teaching Assistant)
     - Content: In this seminar, students learn basic skills on how to conduct scientific research. They will be assigned with hot topics in Software and Systems Engineering as well as Software and System Security. Often, students are expected to do a literature survey on an assigned topic, develop their opinions on the state-of-the-art, write a seminar paper on this topic, deliver a presentation and participant in a peer review process of other students’ seminar papers.
 - **Programming** (Programmierung), Bachelor Course in German, Paderborn University
     - Winter 2017
