@@ -8,6 +8,10 @@
     
 ### Peer-reviewed Conference Papers
 - 2024
+  - **ASE 2024**<br>
+    **Understanding developer-analyzer interactions in code reviews**, 27/10/2024 - 01/11/2024, the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States. <br>
+    *Berk Cirisci, Linghui Luo, Muhammad Numair Mansur, Martin Schäf, Omer Tripp, Muhammad Bilal Zafar, Qiang Zhou* <br>
+    ([Paper](https://www.amazon.science/publications/understanding-developer-analyzer-interactions-in-code-reviews))
   - **TACAS 2024**<br>
     **SootUp: A Redesign of the Soot Static Analysis Framework**, 06/04/2024 – 11/04/2024, 30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, Luxembourg City, Luxembourg. <br>
     *Kadiray Karakaya, Stefan Schott, Jonas Klauke, Eric Bodden, Markus Schmidt, Linghui Luo and Dongjie He* <br>
