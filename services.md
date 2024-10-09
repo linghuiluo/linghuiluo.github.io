@@ -1,5 +1,5 @@
 ## Academic Services
-- **Co-chair**, the 12th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2025
+- **Co-chair**, the 12th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2025
 - **Reviewer**, the International Conference on Software Engineering (ICSE), 2025.
 - **Reviewer**, the IEEE Secure Development (SecDev) conference (IEEE SecDev), 2024.
 - **Reviewer**, the International Symposium on Software Testing and Analysis (ISSTA), 2023
