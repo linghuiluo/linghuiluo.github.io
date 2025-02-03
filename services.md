@@ -1,16 +1,18 @@
 ## Academic Services
+- **Reviewer**, the International Conference on Software Engineering (ICSE), 2026
+- **Reviewer**, ACM Transactions on Programming Languages and Systems (TOPLAS), 2025
 - **Reviewer**, the Second International Workshop on Large Language Models for Code (LLM4Code), 2025
 - **Co-chair**, the 12th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2025
-- **Reviewer**, the International Conference on Software Engineering (ICSE), 2025.
-- **Reviewer**, the IEEE Secure Development (SecDev) conference (IEEE SecDev), 2024.
+- **Reviewer**, the International Conference on Software Engineering (ICSE), 2025
+- **Reviewer**, the IEEE Secure Development (SecDev) conference (IEEE SecDev), 2024
 - **Reviewer**, the International Symposium on Software Testing and Analysis (ISSTA), 2023
-- **Reviewer**, the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023.
-- **Reviewer**, Demonstrations Track of the International Conference on Software Engineering (ICSE), 2023. 
+- **Reviewer**, the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023
+- **Reviewer**, Demonstrations Track of the International Conference on Software Engineering (ICSE), 2023
 - **Organizer**, PRIDE (Practical Research IDEs) Workshop, European Conference on Object-Oriented Programming (ECOOP), 2022
-- **Sub-reviewer**, International Conference on Software Engineering (ICSE), 2022.
-- **Sub-reviewer**, IEEE Symposium on Security and Privacy (IEEE S&P), 2022.
-- **Reviewer**, Artifact Evaluation, Symposium on Principles of Programming Languages (POPL), 2022.
-- **Reviewer**, ACM Transactions on Software Engineering and Methodology (TOSEM), 2021.
-- **Reviewer**, Artifact Evaluation, Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020.
-- **Student Volunteer**, International Conference on Automated Software Engineering (ASE), 2019.
-- **Sub-reviewer**, Research Track, International Conference on Automated Software Engineering (ASE), 2018.
+- **Sub-reviewer**, International Conference on Software Engineering (ICSE), 2022
+- **Sub-reviewer**, IEEE Symposium on Security and Privacy (IEEE S&P), 2022
+- **Reviewer**, Artifact Evaluation, Symposium on Principles of Programming Languages (POPL), 2022
+- **Reviewer**, ACM Transactions on Software Engineering and Methodology (TOSEM), 2021
+- **Reviewer**, Artifact Evaluation, Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020
+- **Student Volunteer**, International Conference on Automated Software Engineering (ASE), 2019
+- **Sub-reviewer**, Research Track, International Conference on Automated Software Engineering (ASE), 2018
