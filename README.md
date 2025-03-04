@@ -44,6 +44,8 @@ Before joining Amazon, I was a research associate in the Secure Software Enginee
 I am the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [SootUp](https://github.com/soot-oss/SootUp).
 
 ## Contact
+Book an appointment with me: click [here](https://calendar.app.google/NCjaLZqZ5KMcMpEz5)
+
 &#x2709; linghui[at]outlook.de
 
 ## Life Outside of Work
