@@ -4,10 +4,12 @@ description: A personal page of Linghui Luo
 navigation:
 - text: Home
   url: /
-- text: CV
-  url: /cv
 - text: Publications
   url: /publications
+- text: Awards
+  url: /awards
+- text: CV
+  url: /cv
 - text: Services
   url: /services
 - text: Projects
