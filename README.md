@@ -2,18 +2,18 @@
 <img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
 Thank you for visiting my academic page!
 
-I am an [independent consultant](https://luo-consulting.de) for cybersecurity and AI in Berlin. Previously, I was an applied scientist at Amazon Web Services for a few years, working for Amazon Q, CodeWhisperer and CodeGuru. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. My research spans various areas of software engineering and security, with a focus on advancing the effectiveness, scalability and integration of program analysis techniques. Particularly, I am interested in following research directions: 
+I am an [independent consultant](https://luo-consulting.de) for cybersecurity and AI in Berlin. Previously, I was an applied scientist at Amazon Web Services for a few years, working for Amazon Q, CodeWhisperer and CodeGuru. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. 
+Before joining Amazon, I was a research associate in the Secure Software Engineering Group at Paderborn University in Germany. I received my PhD from Paderborn University in 2021, with distinction, under the advisement of Prof. Eric Bodden. I also hold both a master's and bachelor's degree from Paderborn University.
+
+My research spans various areas of software engineering and security, with a focus on advancing the effectiveness, scalability and integration of program analysis techniques. Particularly, I am interested in following research directions: 
 - **Improving Security Practices**: A core focus of my work developed innovative approaches to enforce security coding practices. With the popularity of applying Generative AI for writting code, these days I am also working on improving the security and quality of generated code. 
 - **Scalability and Performance**: I explore methods to enhance scalability of static analyses, with balancing to soundness.  
 - **Usability and Integration**: Recognizing the importance of seamless tool integration into developers’s workflow, I am dedicated to find ways that improve the usability and integration of static analyses.  
 - **Advancement in Static Analysis Frameworks**: I’m committed to advancing the state-of-the-art in static analysis frameworks to meet evolving industry demands. 
 - **Benchmarking and Evaluation**: I am passionate about establishing rigorous benchmarks and evaluation methods to assess effectiveness of static analysis tools.    
-
 My contributions to the research field have been recognized with prestigious awards, notably the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger) - an award for an outstanding research contribution in the field of methods, tools, and procedures for software development by the Software Engineering Department of the German Informatics Society (GI) in cooperation with the Austrian Computer Society (OCG) and the Swiss Informatics Society (SI).
 
 Apart from my research work, I also actively [serve as a program committee member](services.md) at top conferences such as ESEC/FSE, ICSE, and ISSTA in the field.
-
-Before joining Amazon, I was a research associate in the Secure Software Engineering Group at Paderborn University in Germany. I received my PhD from Paderborn University in 2021, with distinction, under the advisement of [Prof. Eric Bodden](https://www.bodden.de). I also hold both a master's and bachelor's degree from Paderborn University.
 
 [German Bio/Lebenslauf auf Deutsch](lebenslauf.md)
 <p>📢 I received ZONTA Science Award 2023 for my research</p> 
