@@ -11,6 +11,7 @@ My research spans various areas of software engineering and security, with a foc
 - **Usability and Integration**: Recognizing the importance of seamless tool integration into developers’s workflow, I am dedicated to find ways that improve the usability and integration of static analyses.  
 - **Advancement in Static Analysis Frameworks**: I’m committed to advancing the state-of-the-art in static analysis frameworks to meet evolving industry demands. 
 - **Benchmarking and Evaluation**: I am passionate about establishing rigorous benchmarks and evaluation methods to assess effectiveness of static analysis tools.    
+
 My contributions to the research field have been recognized with prestigious awards, notably the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger) - an award for an outstanding research contribution in the field of methods, tools, and procedures for software development by the Software Engineering Department of the German Informatics Society (GI) in cooperation with the Austrian Computer Society (OCG) and the Swiss Informatics Society (SI).
 
 Apart from my research work, I also actively [serve as a program committee member](services.md) at top conferences such as ESEC/FSE, ICSE, and ISSTA in the field.
