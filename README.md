@@ -2,7 +2,7 @@
 <img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
 Thank you for visiting my academic page!
 
-I am an [independent consultant](https://luo-consulting.de) for cybersecurity and AI in Berlin. Previously, I was an applied scientist at Amazon Web Services for a few years, working for Amazon Q, CodeWhisperer and CodeGuru. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. 
+I am the founder of [ClioAssist GmbH](https://clioassist.de) and [Luo Consulting](https://luo-consulting.de). Previously, I was an applied scientist at Amazon Web Services for a few years, working for Amazon Q, CodeWhisperer and CodeGuru. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. 
 Before joining Amazon, I was a research associate in the Secure Software Engineering Group at Paderborn University in Germany. I received my PhD from Paderborn University in 2021, with distinction, under the advisement of Prof. Eric Bodden. I also hold both a master's and bachelor's degree from Paderborn University.
 
 My research spans various areas of software engineering and security, with a focus on advancing the effectiveness, scalability and integration of program analysis techniques. Particularly, I am interested in following research directions: 
