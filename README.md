@@ -2,11 +2,11 @@
 <img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
 Thank you for visiting my academic page!
 
-I am the founder of [ClioAssist GmbH](https://clioassist.de) and [Luo Consulting](https://luo-consulting.de). Previously, I was an applied scientist at Amazon Web Services for a few years, working for Amazon Q, CodeWhisperer and CodeGuru. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. 
+I am the founder of [ClioAssist GmbH](https://clioassist.de) and [Luo Consulting](https://luo-consulting.de). Previously, I was an applied scientist at Amazon Web Services for a few years, working on both AI and Cybersecurity products such as Amazon Q, CodeWhisperer and CodeGuru Security. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. 
 Before joining Amazon, I was a research associate in the Secure Software Engineering Group at Paderborn University in Germany. I received my PhD from Paderborn University in 2021, with distinction, under the advisement of Prof. Eric Bodden. I also hold both a master's and bachelor's degree from Paderborn University.
 
-My research spans various areas of software engineering and security, with a focus on advancing the effectiveness, scalability and integration of program analysis techniques. Particularly, I am interested in following research directions: 
-- **Improving Security Practices**: A core focus of my work developed innovative approaches to enforce security coding practices. With the popularity of applying Generative AI for writting code, these days I am also working on improving the security and quality of generated code. 
+My research spans various areas of software engineering and security. Particularly, I am interested in following research directions: 
+- **Improving Security Practices**: A core focus of my work is developing innovative approaches to strengthen security practices in software development. With the growing adoption of Generative AI for code generation and agentic AI systems, I am particularly interested in ensuring the security, reliability, and trustworthiness of AI-generated code and agentic AI systems.
 - **Scalability and Performance**: I explore methods to enhance scalability of static analyses, with balancing to soundness.  
 - **Usability and Integration**: Recognizing the importance of seamless tool integration into developers’s workflow, I am dedicated to find ways that improve the usability and integration of static analyses.  
 - **Advancement in Static Analysis Frameworks**: I’m committed to advancing the state-of-the-art in static analysis frameworks to meet evolving industry demands. 
@@ -15,12 +15,6 @@ My research spans various areas of software engineering and security, with a foc
 My contributions to the research field have been recognized with prestigious awards, notably the [Ernst Denert Software Engineering Award 2021](https://fb-swt.gi.de/weiteres/ernst-denert-se-preis/bisherige-preistraeger) - an award for an outstanding research contribution in the field of methods, tools, and procedures for software development by the Software Engineering Department of the German Informatics Society (GI) in cooperation with the Austrian Computer Society (OCG) and the Swiss Informatics Society (SI).
 
 Apart from my research work, I also actively [serve as a program committee member](services.md) at top conferences such as ESEC/FSE, ICSE, and ISSTA in the field.
-
-[German Bio/Lebenslauf auf Deutsch](lebenslauf.md)
-<p>📢 I received ZONTA Science Award 2023 for my research</p> 
-<p>📢 My dissertation won the UPB Doctoral Dissertation Award</p> 
-<p>📢 Our paper "Long-term Static Analysis Rule Quality Monitoring Using True Negatives" was accepted at ICSE 2023</p> 
-<p>📢 Our paper "Model Generation For Java Frameworks" was accepted at ICST 2023</p> 
 
 <!-- display social media buttons in your README -->
 <!-- Github -->
