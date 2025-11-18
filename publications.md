@@ -6,7 +6,11 @@
     *Linghui Luo, Shubha Gargava*
     ([Article](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks))
     
-### Peer-reviewed Conference Papers
+### Conference Publications
+- 2025
+  - **ESMO AI & Digital Oncology Congress 2025**<br>
+  **Edge-native artificial intelligence for automated anamnesis, real-time documentation, and multilingual communication in oncology practice**, 12/11/2025 - 14/11/2025, ESMO AI & Digital Oncology Congress 2025, Berlin, Germany.<br>
+  *Linghui Luo, Juan Carlos Murillo* <br>
 - 2024
   - **ASE 2024**<br>
     **Understanding developer-analyzer interactions in code reviews**, 27/10/2024 - 01/11/2024, the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States. <br>
