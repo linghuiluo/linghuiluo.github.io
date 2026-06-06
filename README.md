@@ -21,15 +21,12 @@ My contributions to the research field have been recognized with prestigious awa
 Apart from my research work, I also actively [serve as a program committee member](services.md) at top conferences such as ESEC/FSE, ICSE, and ISSTA in the field.
 
 <!-- display social media buttons in your README -->
-<!-- Github -->
-<a href="https://github.com/linghuiluo">
-<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="50" hspace="5"></a>
-<!-- Twitter-->
-<a href="https://twitter.com/LinghuiLuo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="drawing" width="50" hspace="5"></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/linghui-luo">
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="50" hspace="5"></a>
+<!-- Github -->
+<a href="https://github.com/linghuiluo">
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="50" hspace="5"></a>
 <!-- dblp -->
 <a href="https://dblp.org/pid/244/4638.html">
 <img src ="https://dblp.org/img/logo.320x120.png" alt="drawing" width="120" hspace="5"></a>
