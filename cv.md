@@ -1,4 +1,3 @@
-In case of job or collaboration opportunities, my complete CV in PDF can be requested by e-mail.
 
 ## Education 
 - **Ph.D. In Computer Science** (graduated with distinction), 2021, Paderborn University, Germany.
