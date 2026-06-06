@@ -1,5 +1,5 @@
 ## Biography of Dr. Linghui Luo                    
-<img src="new-profile.jpg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
+<img src="new-profile.jpg" alt="drawing" width="180" style="float: left;" hspace="5"/>  
 Thank you for visiting my academic page!
 
 I have accepted a W3-Professorship at the [University of Hamburg](https://www.inf.uni-hamburg.de). I will officially start in this new role on 1st September 2026. My research will focus on building trustworthy, secure, and practical software systems, with particular emphasis on Secure Software Engineering for AI-integrated Systems and Software Engineering for Edge AI. 
