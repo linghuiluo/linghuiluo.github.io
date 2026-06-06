@@ -1,8 +1,9 @@
 ## Biography of Dr. Linghui Luo                    
-<img src="profile.jpeg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
+<img src="new-profile.jpg" alt="drawing" width="200" style="float: left;" hspace="5"/>  
 Thank you for visiting my academic page!
 
-I have accepted a W3 Professorship at the University of Hamburg. I will officially start in this new role on 1 September 2026. My research will focus on building trustworthy, secure, and practical software systems, with particular emphasis on Secure Software Engineering for AI-integrated Systems and Software Engineering for Edge AI. 
+I have accepted a W3-Professorship at the [University of Hamburg](https://www.inf.uni-hamburg.de). I will officially start in this new role on 1st September 2026. My research will focus on building trustworthy, secure, and practical software systems, with particular emphasis on Secure Software Engineering for AI-integrated Systems and Software Engineering for Edge AI. 
+I am currently looking for motivated PhD students to join my team at the University of Hamburg. If you are interested in research at the intersection of AI, Software Engineering, and Security, and you are passionate about solving real-world problems through research, I would be very happy to hear from you.
 
 I am also the CEO of [ClioAssist GmbH](https://clioassist.de), where we build privacy-first, on-premise AI solutions for healthcare. Previously, I was an applied scientist at Amazon Web Services for a few years, working on both AI and Cybersecurity products such as Amazon Q, CodeWhisperer and CodeGuru Security. These blogs ([here](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks) and [here](https://www.amazon.science/working-at-amazon/linghui-luo-code-guru-security-plug-in-aws-internship)) should give you a glimpse of my work at AWS. 
 Before joining Amazon, I was a research associate in the Secure Software Engineering Group at Paderborn University in Germany. I received my PhD from Paderborn University in 2021, with distinction, under the advisement of Prof. Eric Bodden. I also hold both a master's and bachelor's degree from Paderborn University.
