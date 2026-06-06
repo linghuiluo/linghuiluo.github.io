@@ -33,9 +33,11 @@ Apart from my research work, I also actively [serve as a program committee membe
 <!-- orcid -->
 <a href="https://orcid.org/0000-0003-2054-0373">
 <img src="https://orcid.org/assets/vectors/orcid.logo.svg" width="110" hspace="5"></a>
-<!-- amazon science -->
-<a href="https://www.amazon.science/author/linghui-luo">
-<img src="https://assets.amazon.science/07/d9/d204ca2242bea8215dbf9ca5c43e/amazon-science-logo.svg"  width="180" hspace="5"></a>
+<!-- Google Scholar -->
+<a href="https://scholar.google.com/citations?user=LhhFezEAAAAJ&hl=en">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"  width="50" hspace="5"></a>
+
+
 
 ## Contribution to Open Source
 I am the creator of [MagpieBridge](https://github.com/MagpieBridge/MagpieBridge) and a contributer to [Soot](https://github.com/soot-oss/soot) and [SootUp](https://github.com/soot-oss/SootUp).
@@ -47,7 +49,7 @@ Book an appointment with me: click [here](https://calendar.app.google/NCjaLZqZ5K
 
 ## Life Outside of Work
 Together with my husband, I keep three beloved pets: a dog, a cat and a black cat.
-I love to spend my time with my pets and do sports such as hiking and bouldering. 
+I love to spend my time with my pets and enjoy sports such as hiking and bouldering. 
 I also enjoy music and play the cello. 
 
 
