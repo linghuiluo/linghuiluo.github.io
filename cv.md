@@ -7,6 +7,7 @@ In case of job or collaboration opportunities, my complete CV in PDF can be requ
 - **B. Sc. In Computer Science**, 2014, Paderborn University, Paderborn, Germany.
 
 ## Work Experience
+- **CEO**, Jul. 2025 - Now, ClioAssist GmbH, Berlin, Germany. 
 - **Consultant for Cybersecurity & AI**, Mar. 2025 - Now, Luo Consulting, Berlin, Germany. 
 - **Applied Scientist II**, Jan. 2022 - Feb. 2025, Amazon Web Services, Berlin, Germany.    
 - **Research Associate**, Mid-Jun. 2017 – Dec. 2021, Research group Software Engineering, Paderborn University, Paderborn, Germany.
