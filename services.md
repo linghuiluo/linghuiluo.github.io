@@ -1,4 +1,5 @@
 ## Academic Services
+- **Reviewer**, The ACM International Conference on the Foundations of Software Engineering (FSE), 2027 
 - **Reviewer**, the International Conference on Software Engineering (ICSE), 2027
 - **Reviewer**, the International Conference on Software Engineering (ICSE), 2026
 - **Reviewer**, ACM Transactions on Programming Languages and Systems (TOPLAS), 2025
